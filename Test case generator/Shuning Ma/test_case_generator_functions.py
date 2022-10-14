@@ -111,3 +111,11 @@ def num_of_phonetic(word):
 			cnt += 1
 	
 	return cnt
+
+def num_of_alphabet(word):
+	cnt = 0
+	for letter in word:
+		if letter in alphabet():
+			cnt += 1
+	
+	return cnt
