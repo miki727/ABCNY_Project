@@ -59,7 +59,7 @@ while True:
     ofac_list_sampled = ofac_list_filtered.sample(n = 10)
     cnt = [0] * 10
     for ind, name in enumerate(ofac_list_sampled['name']):
-        split_name = name.split(' ')
+        split_name = name.upper().split(' ')
             
         for word in split_name:
             cnt[ind] = num_of_phonetic(word)
