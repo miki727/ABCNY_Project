@@ -10,7 +10,7 @@
 
 import pandas as pd
 import numpy as np
-from test_case_generator_functions import alphabet
+from test_case_generator_functions import alphabet, num_of_alphabet
 
 
 # # TEST CASE TYPE REFERENCE INFORMATION
@@ -55,7 +55,17 @@ ofac_list_filtered = ofac_list[(ofac_list.entity_type == '-0- ')] # only evaluat
 # In[6]:
 
 
-ofac_list_sampled = ofac_list_filtered.sample(n = 10)
+while True:
+    ofac_list_sampled = ofac_list_filtered.sample(n = 10)
+    cnt = [0] * 10
+    for ind, name in enumerate(ofac_list_sampled['name']):
+        
+        if len(name) > 10:
+            cnt[ind] += 1
+
+    if all(i == 1 for i in cnt):
+        break
+
 ofac_list_sampled
 
 
@@ -77,32 +87,52 @@ final_test_cases
 
 for index, row in ofac_list_sampled.iterrows():
     original_name = row['name'].upper()
-    original_name_list = list(original_name) # transfer name string into letter list
-    
-    final_test_name = original_name_list.copy()
+    split_original_name = original_name.split(' ') # split name into word
+    final_test_name = split_original_name.copy()
     
     while True:
-        for i in range(2):
-            random_list = list(range(len(original_name_list))) # randomly choose letter to be transposed
-            while True:
-                random_letter_index = np.random.choice(random_list)
-                random_letter = original_name_list[random_letter_index]
-                if random_letter in alphabet():
-                    break
-            random_list.remove(random_letter_index) # remove chosen letter index
-
-            random_place = np.random.choice(random_list) # randomly choose place to transpose to
-
-            del original_name_list[random_letter_index] # remove chosen letter
-            original_name_list.insert(random_place, random_letter) # add transposed letter
-
-            final_test_name = ''.join(original_name_list)
-            replace_word = ''.join(original_name_list)
+        replace_word = np.random.choice(split_original_name) # randomly choose word to be transposed
+        if num_of_alphabet(replace_word) < 2:
+            continue
         
-        if final_test_name != original_name:
-            break
+        replace_word_list = list(replace_word)
+        replace_word_index = list(range(len(replace_word)))
+        replace_index = np.random.choice(replace_word_index) # choose letter to be transposed
+        
+        if replace_word_list[replace_index] not in alphabet():
+            continue
+        
+        if replace_index == 0:
+            if replace_word_list[1] not in alphabet():
+                continue
+            else:
+                replace_word_list.insert(0, replace_word_list.pop(1)) # transpose
+        
+        elif replace_index == len(replace_word_list) - 1:
+            if replace_word_list[-2] not in alphabet():
+                continue
+            else:
+                replace_word_list.insert(-1, replace_word_list.pop(-2)) # transpose
+        
         else:
-            final_test_name = list(final_test_name)
+            if (replace_word_list[replace_index + 1] not in alphabet()) & (replace_word_list[replace_index - 1] not in alphabet()):
+                continue
+            elif replace_word_list[replace_index + 1] not in alphabet():
+                replace_word_list.insert(replace_index, replace_word_list.pop(replace_index - 1)) # transpose
+            elif replace_word_list[replace_index - 1] not in alphabet():
+                replace_word_list.insert(replace_index, replace_word_list.pop(replace_index + 1)) # transpose
+            else:
+                random_choice = np.random.choice([-1, 1])
+                replace_word_list.insert(replace_index, replace_word_list.pop(replace_index + random_choice)) # transpose
+        
+        if replace_word == ''.join(replace_word_list):
+            continue
+        else:
+            break
+
+    final_test_name[final_test_name.index(replace_word)] = ''.join(replace_word_list)
+
+    final_test_name = ' '.join(final_test_name)
     
     final_test_cases.loc[len(final_test_cases)] = [uid, theme, category, sub_category, entity_type, uid + ' - ' + str(index), row['uid'], row['name'], final_test_name] # append to the dataframe
 
