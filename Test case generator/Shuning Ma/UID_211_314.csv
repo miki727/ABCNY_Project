@@ -1,0 +1,851 @@
+UID,Theme,Category,Sub-category,Entity-Type,Test Case ID,OFAC List UID,Original Name,Test Case Name
+UID-211,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Entity,UID-211 - 5277,22506,JOINT-STOCK COMPANY COMMERCIAL BANK NORTH CREDIT,JOINT-STOCK COMPANY COMMERCIAL BANK NO()TH 0REDIT
+UID-211,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Entity,UID-211 - 10258,37023,LADOGA OOO,LADO#A 6OO
+UID-211,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Entity,UID-211 - 4210,18939,WAKED MONEY LAUNDERING ORGANIZATION,WAKED MONEY LA0ND()RING ORGANIZATION
+UID-211,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Entity,UID-211 - 10815,38723,OPEN JOINT STOCK COMPANY SVETLOGORSKKHIMVOLOKNO,OPEN JOINT STOCK COMPAN0 SV^TLOGORSKKHIMVOLOKNO
+UID-211,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Entity,UID-211 - 6561,25838,NATIONWIDE SHIPPING LTD,NATIONWID* SHIPPING L2D
+UID-211,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Entity,UID-211 - 7861,29446,ELEMENT CAPITAL ADVISORS LIMITED,ELEM%NT CAPITAL ADV1SORS LIMITED
+UID-211,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Entity,UID-211 - 2067,11854,INVERSIONES TALADRO LTDA.,INVERSIONES )8LADRO LTDA.
+UID-211,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Entity,UID-211 - 9,540,"COMERCIAL IBEROAMERICANA, S.A.","COMERCIAL IBEROAMERI%AN4, S.A."
+UID-211,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Entity,UID-211 - 6490,25637,NUCLEAR POWER PRODUCTION AND DEVELOPMENT COMPANY OF IRAN,NUCLEAR POW$R PRODUCTION AND DEVELOPME9T COMPANY OF IRAN
+UID-211,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Entity,UID-211 - 6386,25480,LONDON IRINVEST SHIP COMPANY,3ONDON IRINVEST SHIP COMPA#Y
+UID-212,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Individual,UID-212 - 4873,21560,"ZARGARI, Ghodrat","Z(RGARI, 3hodrat"
+UID-212,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Individual,UID-212 - 7508,28208,"GAI, Taban Deng","GAI, Ta4@n Deng"
+UID-212,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Individual,UID-212 - 481,7687,"HABIBI, Skender","4ABIBI, Skend()r"
+UID-212,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Individual,UID-212 - 5039,22009,"AL-'ALI, Zakariya","A%-'ALI, Z4kariya"
+UID-212,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Individual,UID-212 - 557,7778,"RASEVIC, Mitar","()ASEVIC, Mi0ar"
+UID-212,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Individual,UID-212 - 9585,35561,"BIDONKO, Sergey Yuryevich","BIDONKO, Sergey Y4ryev*ch"
+UID-212,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Individual,UID-212 - 7227,27211,"KANG, Chol Hak","KANG, Cho& H1k"
+UID-212,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Individual,UID-212 - 5003,21973,"TALLUJ, Muhammad Ghassan","TALLUJ, Mu1ammad Gha$san"
+UID-212,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Individual,UID-212 - 1693,10991,"FITCH TOVAR, Jose Manuel","FI()CH TOVAR, Jose 8anuel"
+UID-212,Names where name parts are Modified,Character replaced by Number and Special Character,1 Letter replaced by number and 1 letter replaced by special character,Individual,UID-212 - 5235,22268,"AL-ISAWI, Muhammad Ahmad 'Ali","AL-ISA$I, Muhammad 4hmad 'Ali"
+UID-213,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Entity,UID-213 - 9151,34750,JOINT STOCK COMPANY SOVCOMBANK LIFE,JOINT XTOCK COMPANY SUVCOMBANK LOFE
+UID-213,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Entity,UID-213 - 8105,30286,"DES INTERNATIONAL CO., LTD.","DES INTERNATIOMAL KO., LTT."
+UID-213,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Entity,UID-213 - 8936,33986,P.P. BABUDOVAC B.I.,P.B. BABUDAVAC B.A.
+UID-213,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Entity,UID-213 - 8809,33272,"TAIWAN BE CHARM TRADING CO., LIMITED","TAIWIN PE QHARM TRADING CH., LIMITET"
+UID-213,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Entity,UID-213 - 7407,28009,INVERSIONES ZANZIBAR SOCIEDAD ANONIMA,INVERSIONES ZENZIBAR XOCIEDAD INONIMA
+UID-213,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Entity,UID-213 - 5458,23145,FORENT TECHNIK GMBH,FERENT DECHNIK GMPH
+UID-213,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Entity,UID-213 - 4260,19033,OPEN JOINT STOCK COMPANY COMMERCIAL BANK VERKHNEVOLZHSKY,OPEM JOIMT XTOCK COMPAMY COMMERCIAL BANQ VERKHNEFOLZHSKY
+UID-213,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Entity,UID-213 - 4541,20219,YONA STAR INTERNATIONAL,YHNA STOR INTERNATIONHL
+UID-213,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Entity,UID-213 - 10870,39184,JSC SCIENTIFIC AND TECHNICAL CENTER ZASLON,JSC SCIENTHFIC AND TEQHNICAL CENDER ZASLON
+UID-213,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Entity,UID-213 - 4405,19583,KOREA ZUZAGBONG MARITIME LTD,KOROA ZUZAKBONG MARITIME LDD
+UID-214,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Individual,UID-214 - 2579,13025,"VALDEZ BENITES, Joel","VALDOZ BENIDES, JOUL"
+UID-214,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Individual,UID-214 - 10805,38663,"GALIN, Dmitrii Vladimirovich","QALIN, DMITRHI VLADIMIRHVICH"
+UID-214,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Individual,UID-214 - 9420,35392,"KUMIN, Vadim Valentinovich","QUMIN, FADIM VALENDINOVICH"
+UID-214,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Individual,UID-214 - 9999,36391,"KARACHINSKIY, Anatoly Mikhailovich","KARACIINSKIY, ANATOLI MIKEAILOVICH"
+UID-214,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Individual,UID-214 - 6760,26188,"KOZACHEK, Nikolay Yuryevich","KOZACYEK, NIKOLHY YURYEVIKH"
+UID-214,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Individual,UID-214 - 7899,29671,"NAZARANKA, Yuriy Henadzievich","MAZARANKA, YIRIY HENADZIOVICH"
+UID-214,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Individual,UID-214 - 9259,35027,"PODGORNOVA, Yevgeniya Aleksandrovna","PODGORNOFA, YEFGENIYA ALEKSANDROFNA"
+UID-214,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Individual,UID-214 - 9644,35620,"IVANINSKIY, Oleg Ivanovich","OVANINSKIY, OLEQ IVANEVICH"
+UID-214,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Individual,UID-214 - 514,7726,"LUKOVIC, Milorad Ulemek","LIKOVIC, NILORAD ULEMEC"
+UID-214,Names where name parts are Modified,Phonetic,> 2 phonetic variations - different name part,Individual,UID-214 - 10154,36829,"MURATOV, Sergey Nikolayevich","MURATOF, XERGEY NAKOLAYEVICH"
+UID-215,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Entity,UID-215 - 9216,34978,JJO GENERAL TRADING GIDA SANAYI VE TICARET ANONIM SIRKETI,JJO GENERAL DRWTIMQ GIDA SANAYI VE TICARET ANONIM SIRKETI
+UID-215,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Entity,UID-215 - 6028,24566,"DALIAN SUN MOON STAR INTERNATIONAL LOGISTICS TRADING CO., LTD","DALIAN SUN MOON STAR INTERNATIONAL LOGUXTYGS TRADING CO., LTD"
+UID-215,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Entity,UID-215 - 6579,25856,UNIVERSE SHIPPING LIMITED,UNIVERSE SHIPPING LINIDHT
+UID-215,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Entity,UID-215 - 8326,30874,IRAN MOBIN ELECTRONIC DEVELOPMENT COMPANY,IRAN MOBIN ELECTRONIC TEFELOBMENT COMPANY
+UID-215,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Entity,UID-215 - 4022,18286,VEB CAPITAL,FUB CAPITAL
+UID-215,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Entity,UID-215 - 3969,18090,"GRUPO DIJEMA, S.A. DE C.V.","GRYBO DIJEMA, S.A. DE C.V."
+UID-215,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Entity,UID-215 - 7253,27248,"DIMACO TECHNOLOGY, S.A.","DIMACO DHCEMHLICE, S.A."
+UID-215,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Entity,UID-215 - 7786,29108,PACIFIC STEEL FZE,BIJUVIJ STEEL FZE
+UID-215,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Entity,UID-215 - 4403,19581,THAEPHYONGSAN SHIPPING CO LTD,THAYPAYHMKXOM SHIPPING CO LTD
+UID-215,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Entity,UID-215 - 1461,10392,MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS,MINISTRY OF DAVEMSA AND ARMED FORCES LOGISTICS
+UID-216,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Individual,UID-216 - 809,8227,"BURHAN, Dr. Sahir","PURIAM, DR. SAHIR"
+UID-216,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Individual,UID-216 - 10544,37672,"KRINITSYN, Oleg Anatolyevich","GRINHTSYN, OLEG ANATOLYEVICH"
+UID-216,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Individual,UID-216 - 3387,16328,"MEJIA SALAZAR, Pedro Claver","MEJIA SALAZAR, PEDRO CLEFWR"
+UID-216,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Individual,UID-216 - 9544,35520,"SKLYAR, Gennadiy Ivanovich","SGLAWR, GENNADIY IVANOVICH"
+UID-216,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Individual,UID-216 - 5707,23607,"RINCON CASTILLO, Gilberto","RINCON CASTILLO, GOLPERTA"
+UID-216,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Individual,UID-216 - 8365,31123,"KIRIYENKO, Sergei Vladilenovich","KIRIYENKO, SERGEI VLADILENHVIQH"
+UID-216,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Individual,UID-216 - 9553,35529,"SARALIYEV, Shamsail Yunusovich","SARALIYEV, SHAMSAIL WYNAXUFAGY"
+UID-216,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Individual,UID-216 - 7969,29839,"NAZARIKOLEHJOUB, Hossein","NAZARAKOLOHJOUB, HOSSEIN"
+UID-216,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Individual,UID-216 - 1911,11531,"COSTILLA SANCHEZ, Jorge Eduardo","COSTILLA SANCHEZ, JERCY EDUARDO"
+UID-216,Names where name parts are Modified,Phonetic,> 2 phonetic variations - same name part,Individual,UID-216 - 7314,27427,"DUGARTE PADRON, Juan Carlos","DUGARTE PADRON, KOAM CARLOS"
+UID-217,Names where name parts are Modified,Phonetic,1 phonetic variation,Entity,UID-217 - 2027,11792,FATER ENGINEERING INSTITUTE,FADER ENGINEERING INSTITUTE
+UID-217,Names where name parts are Modified,Phonetic,1 phonetic variation,Entity,UID-217 - 8609,32275,STATE SECURITY COMMITTEE OF THE REPUBLIC OF BELARUS,STATE SECURITY COMMITTEE OV THE REPUBLIC OF BELARUS
+UID-217,Names where name parts are Modified,Phonetic,1 phonetic variation,Entity,UID-217 - 4162,18715,JOINT STOCK COMPANY SBERBANK,JOIND STOCK COMPANY SBERBANK
+UID-217,Names where name parts are Modified,Phonetic,1 phonetic variation,Entity,UID-217 - 8032,30102,DELIGHT SHIPPING COMPANY LIMITED,DELIGHT SHIPPING COMPANY LIMATED
+UID-217,Names where name parts are Modified,Phonetic,1 phonetic variation,Entity,UID-217 - 4356,19308,"WESTLINE ENTERPRISES, INC.","WESTLINE ENTERPRISES, IMC."
+UID-217,Names where name parts are Modified,Phonetic,1 phonetic variation,Entity,UID-217 - 2364,12545,HASSAN AYASH EXCHANGE COMPANY,HASSAN AYASH EXCHANJE COMPANY
+UID-217,Names where name parts are Modified,Phonetic,1 phonetic variation,Entity,UID-217 - 1025,8907,INTERNATIONAL FREEZE DRIED S.A.,INTERNATIONAL FREEZE DRIED S.W.
+UID-217,Names where name parts are Modified,Phonetic,1 phonetic variation,Entity,UID-217 - 3054,15631,NEDA INDUSTRIAL GROUP,NETA INDUSTRIAL GROUP
+UID-217,Names where name parts are Modified,Phonetic,1 phonetic variation,Entity,UID-217 - 5806,23773,LIBERTY SHIPPING CO LTD,LIBERTY SHIBPING CO LTD
+UID-217,Names where name parts are Modified,Phonetic,1 phonetic variation,Entity,UID-217 - 7532,28295,IRANIAN GHADIR IRON & STEEL CO.,IRANIAN GHADIR IRHN & STEEL CO.
+UID-218,Names where name parts are Modified,Phonetic,1 phonetic variation,Individual,UID-218 - 10940,39556,"BAKR, Osama Abdelmongy Abdalla","BUKR, OSAMA ABDELMONGY ABDALLA"
+UID-218,Names where name parts are Modified,Phonetic,1 phonetic variation,Individual,UID-218 - 3954,18009,"MAZIOTIS, Nikolaos","MAZIOTIS, NIJOLAOS"
+UID-218,Names where name parts are Modified,Phonetic,1 phonetic variation,Individual,UID-218 - 5909,24245,"DAR, Muhammad Harris","DIR, MUHAMMAD HARRIS"
+UID-218,Names where name parts are Modified,Phonetic,1 phonetic variation,Individual,UID-218 - 10447,37386,"KHOR, Gleb Yakovlevich","KHOR, GLEB YAKOVLEVIGH"
+UID-218,Names where name parts are Modified,Phonetic,1 phonetic variation,Individual,UID-218 - 4801,21226,"DUBINYAK, Andrey","DUBINYAK, ANDREU"
+UID-218,Names where name parts are Modified,Phonetic,1 phonetic variation,Individual,UID-218 - 1123,9415,"SHAWKAT, Assef","SHAWKAT, AXSEF"
+UID-218,Names where name parts are Modified,Phonetic,1 phonetic variation,Individual,UID-218 - 10101,36776,"CHERNYSHEV, Andrey Vladimirovich","CHERNYSAEV, ANDREY VLADIMIROVICH"
+UID-218,Names where name parts are Modified,Phonetic,1 phonetic variation,Individual,UID-218 - 7419,28027,"SEGUJJA, Elias","SEGUJJA, ELIES"
+UID-218,Names where name parts are Modified,Phonetic,1 phonetic variation,Individual,UID-218 - 8643,32368,"MYINT, Ohn Mar","MYINT, OHM MAR"
+UID-218,Names where name parts are Modified,Phonetic,1 phonetic variation,Individual,UID-218 - 10631,37812,"BRILKA, Sergey Fateevich","BRILKA, SERGEY FATUEVICH"
+UID-219,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Entity,UID-219 - 9045,34439,DAR AL SALAM FOR TRAVEL & TOURISM,DAR AL SALAM FOR TRAFEL & TOURISN
+UID-219,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Entity,UID-219 - 6810,26344,QESHM FARS AIR,QESHM VARS AOR
+UID-219,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Entity,UID-219 - 1703,11001,MINERA LA CASTELLANA Y ANEXAS S.A. DE C.V.,MINERA LA CASTELLENA Y ANEXAS S.A. DH C.V.
+UID-219,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Entity,UID-219 - 10504,37498,SEVERGROUP LIMITED LIABILITY COMPANY,SEVERGROUB LIMITID LIABILITY COMPANY
+UID-219,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Entity,UID-219 - 7458,28104,KHEDRI JAHAN DARYA CO,KHEDRI JAHON DHRYA CO
+UID-219,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Entity,UID-219 - 7366,27849,ARMED FORCES GENERAL STAFF,ARMED FORCEX GENIRAL STAFF
+UID-219,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Entity,UID-219 - 6498,25645,EDBI EXCHANGE BROKERAGE,EDBI EXCHANGY BROCERAGE
+UID-219,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Entity,UID-219 - 10525,37525,JSC SCIENTIFIC AND PRODUCTION ASSOCIATION OF ELECTRO MECHANIC,JSC SCIENTIFIC AND PRODUCTION ASSOCIATION IF ELECTRO MECHHNIC
+UID-219,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Entity,UID-219 - 7220,27195,LINBURG INDUSTRIES LTD.,LINBARG INDUSTRIES LDD.
+UID-219,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Entity,UID-219 - 7679,28684,MADA'IN NOVIN TRADERS,MADA'IM NOVIN DRADERS
+UID-220,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Individual,UID-220 - 10086,36761,"ARTAMONOV, Anatoly Dmitrievich","ARTAMONOF, Anatoly Tmitrievich"
+UID-220,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Individual,UID-220 - 10360,37299,"ARSHBA, Otary Ionovich","ARSHPA, Otary Eonovich"
+UID-220,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Individual,UID-220 - 3443,16462,"URDINOLA ALVAREZ, Hector Mario","URDINOLE ALVAREZ, Hector Nario"
+UID-220,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Individual,UID-220 - 9451,35427,"AMMOSOV, Petr Revoldovich","AMNOSOV, Betr Revoldovich"
+UID-220,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Individual,UID-220 - 1787,11311,"AW-MOHAMED, Ahmed Abdi","AI-MOHAMED, Yhmed Abdi"
+UID-220,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Individual,UID-220 - 3657,16934,"MENYAILO, Sergei Ivanovich","MENYAILO, Xergei Evanovich"
+UID-220,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Individual,UID-220 - 10385,37324,"KAZAKOVA, Olga Mikhailovna","QAZAKOVA, Olga Nikhailovna"
+UID-220,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Individual,UID-220 - 7174,27043,"GRANKO ARTEAGA, Alexander Enrique","GRANKY ARTEAGA, Olexander Enrique"
+UID-220,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Individual,UID-220 - 5679,23551,"KOSTENKO, Elena Nikolaevna","KOSTENKO, Ilena Mikolaevna"
+UID-220,Names where name parts are Modified,Phonetic,2 phonetic variations - different name part,Individual,UID-220 - 7907,29702,"LIFSHITS, Artem Mikhaylovich","LIVSHITS, Ertem Mikhaylovich"
+UID-221,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Entity,UID-221 - 1021,8903,IBADAN LTDA.,IBADAN LDDH.
+UID-221,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Entity,UID-221 - 8379,31138,"CANCRI GEMS & JEWELLERY CO., LTD.","CANCRI GENX & JEWELLERY CO., LTD."
+UID-221,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Entity,UID-221 - 8836,33394,OOO GARDSERVIS,OOO GARTSERVIX
+UID-221,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Entity,UID-221 - 4187,18772,NPK TEKHMASH OAO,NPK TEQHMAXH OAO
+UID-221,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Entity,UID-221 - 2994,15539,"TEHRAN GOSTARESH COMPANY, P.J.S.","TEHRAN GOXDARESH COMPANY, P.J.S."
+UID-221,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Entity,UID-221 - 2992,15536,BAQIYATTALLAH UNIVERSITY OF MEDICAL SCIENCES,BAQIYATTALLAH UNIVERSITY OF MADOCAL SCIENCES
+UID-221,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Entity,UID-221 - 9926,36063,PUBLIC JOINT STOCK COMPANY AMURSKY SHIPBUILDING PLANT,PUBLIC JOINT STOCK QOMBANY AMURSKY SHIPBUILDING PLANT
+UID-221,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Entity,UID-221 - 2635,13136,SARMAYEH BANK,SARMAYEH PONK
+UID-221,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Entity,UID-221 - 6063,24678,SOLUCIONES ELECTRICAS Y MECANICAS HADOM S.R.L.,SOLUCIONES ULECTRIQAS Y MECANICAS HADOM S.R.L.
+UID-221,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Entity,UID-221 - 4555,20246,MONETA TRANSFER AND EXCHANGE,MONETA TRANSFER AND HXCHANGY
+UID-222,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Individual,UID-222 - 9522,35498,"FEDYAEV, Pavel Mikhaylovich","FEDYAEV, BWVEL MIKHAYLOVICH"
+UID-222,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Individual,UID-222 - 1644,10856,"HOJATI, Mohsen","WHJATI, MOHSEN"
+UID-222,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Individual,UID-222 - 8787,33176,"NOVIKAU, Siarhei Ihnatavich","NOVIKAU, SIARHEI IHNATAFICU"
+UID-222,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Individual,UID-222 - 4509,20124,"CHO, Yon Chun","QWO, YON CHUN"
+UID-222,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Individual,UID-222 - 1224,9614,"BA'ASYIR, Abu Bakar","BW'HSYIR, ABU BAKAR"
+UID-222,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Individual,UID-222 - 3194,15863,"GONZALEZ MUNIZ, Emilio Guillermo","GONZWLAZ MUNIZ, EMILIO GUILLERMO"
+UID-222,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Individual,UID-222 - 1928,11552,"RINCON ORDONEZ, Jorge Enrique","RINCON ORDUMEZ, JORGE ENRIQUE"
+UID-222,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Individual,UID-222 - 7332,27474,"MAO, Yu Hua","MAO, AE HUA"
+UID-222,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Individual,UID-222 - 3702,17036,"IBRAHIM, Ayman","OBRWHIM, AYMAN"
+UID-222,Names where name parts are Modified,Phonetic,2 phonetic variations - same name part,Individual,UID-222 - 10058,36497,"ROLDUGIN, Sergei Pavlovich","ROLDUGIN, XERGEA PAVLOVICH"
+UID-224,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Entity,UID-224 - 10740,38177,JOINT STOCK COMPANY INSTITUTE FOR SCIENTIFIC RESEARCH MICROELECTRONIC EQUIPMENT PROGRESS,JOOINT SSTOCK COMPANY INSTITUUTE FFOR SCIENTIFFIC RESEARCHH MICROELECTRONIC EEQUIPMENT PROGRRESS
+UID-224,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Entity,UID-224 - 7205,27163,"PISHTAZAN KAVOSH GOSTAR BOSHRA, LLC","PISHTAZZAN KAVOSH GOSSTAR BOSHRA, LLLC"
+UID-224,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Entity,UID-224 - 9927,36065,JOINT STOCK COMPANY SHIPREPAIRING CENTER ZVYOZDOCHKA,JOOINT STOOCK COMPANY SHIPREPAIRING CENTEER ZVYOZDOCHKA
+UID-224,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Entity,UID-224 - 1855,11442,KAVEH CUTTING TOOLS COMPANY,KAVEH CCUTTING TOOOLS COMPANYY
+UID-224,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Entity,UID-224 - 1159,9524,KOREA PUGANG TRADING CORPORATION,KOREAA PUGANG TTRADING CORPORATIOON
+UID-224,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Entity,UID-224 - 7977,29848,RANA INTELLIGENCE COMPUTING COMPANY,RRANA INTELLIGENCCE COMPUTING COMMPANY
+UID-224,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Entity,UID-224 - 6795,26232,FEDERAL NEWS AGENCY LLC,FEDERAL NEWSS AGENCCY LLLC
+UID-224,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Entity,UID-224 - 6903,26551,NARIA GENERAL TRADING LLC,NARIAA GENERAL TRADINGG LLCC
+UID-224,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Entity,UID-224 - 3079,15664,"CASA EL VIEJO LUIS DISTRIBUIDORA, S.A. DE C.V.","CASA EL VIEJJO LLUIS DISTRIBUIDORA, S.A. DDE C.V."
+UID-224,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Entity,UID-224 - 8167,30413,MELLI SAKHTEMAN COMPANY,MMELLI SAKHTEMAAN CCOMPANY
+UID-225,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Individual,UID-225 - 5234,22267,"AL-HAMID, Hashim Muhsin Aydarus","AL-HAMMID, HASHIM MUHSIIN AYDARUUS"
+UID-225,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Individual,UID-225 - 10813,38719,"KRYLLO, Pavel Velerevich","KRYLLLO, PAVELL VEELEREVICH"
+UID-225,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Individual,UID-225 - 1351,10148,"OZIA MAZIO, Dieudonne","OZZIA MAZIOO, DIEEUDONNE"
+UID-225,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Individual,UID-225 - 2011,11752,"TASCON ROJAS, Servio Tulio","TASCCON ROJASS, SERVVIO TULIO"
+UID-225,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Individual,UID-225 - 2048,11816,"MOLINA CUBILLOS, Alba Judith","MOLIINA CCUBILLOS, ALBA JUUDITH"
+UID-225,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Individual,UID-225 - 9859,35964,"GUSEV, Dmitry Vladimirovich","GUSEEV, DMIITRY VLAADIMIROVICH"
+UID-225,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Individual,UID-225 - 4121,18617,"BURITICA HINCAPIE, Geova","BUURITICA HINNCAPIE, GEEOVA"
+UID-225,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Individual,UID-225 - 10832,38916,"PAKHNYTS, Valery Mykhailovych","PAKHNNYTS, VVALERY MYKHAILOVYCCH"
+UID-225,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Individual,UID-225 - 5523,23243,"TYURIN, Vladimir Anatolyevich","TTYURIN, VLAADIMIR ANATOOLYEVICH"
+UID-225,Names where name parts are Modified,Repetitions,> 2 letters repeated once,Individual,UID-225 - 7144,27003,"GAVIDIA FLORES, Walter Jacob","GAVVIDIA FLORES, WALTEER JAACOB"
+UID-226,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Entity,UID-226 - 6504,25651,ATOMIC FUEL DEVELOPMENT ENGINEERING COMPANY,ATOMIIIC FFFUEL DEVELOPMENNNT ENGINEERING COOOMPANY
+UID-226,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Entity,UID-226 - 3738,17100,AMMERSHAM COMMERCIAL VENTURES LIMITED,AMMERSHHHAM COMMERCIAL VENTUREEES LIMITEEED
+UID-226,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Entity,UID-226 - 9809,35872,JOINT STOCK COMPANY STATE MACHINE BUILDING DESIGN BUREAU VYMPEL BY NAME I.I. TOROPOV,JOIIINT SSSTOCK COMPANY STATE MACHINNNE BBBUILDING DEEESIGN BBBUREAU VYMPPPEL BBBY NAAAME I.III. TOOOROPOV
+UID-226,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Entity,UID-226 - 7164,27031,"SUZHOU A-ONE SPECIAL ALLOY CO., LTD","SUZHOU A-OOONE SPPPECIAL ALLLLOY CO., LTDDD"
+UID-226,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Entity,UID-226 - 2098,11903,AGROPECUARIA HATO SANTA MARIA LTDA.,AGROPECUARIA HHHATO SANNNTA MARIAAA LLLTDA.
+UID-226,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Entity,UID-226 - 2824,15122,PROTON PETROCHEMICALS SHIPPING LIMITED,PROTTTON PETROCHEMIIICALS SHIPPING LIMITTTED
+UID-226,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Entity,UID-226 - 8809,33272,"TAIWAN BE CHARM TRADING CO., LIMITED","TAIWAN BE CHARMMM TRADDDING CO., LIMITTTED"
+UID-226,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Entity,UID-226 - 2274,12297,"AUDIO ALARMAS, S.A. DE C.V.","AUDIOOO ALLLARMAS, SSS.A. DE C.VVV."
+UID-226,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Entity,UID-226 - 7042,26797,JC CAR AUDIO,JJJC CARRR AUDIOOO
+UID-226,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Entity,UID-226 - 6573,25850,GLOBAL UNITED SHIPPING LIMITED,GLOBAL UNITEEED SHIIIPPING LLLIMITED
+UID-227,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Individual,UID-227 - 8452,31672,"PRIGOZHIN, Pavel Evgenyevich","PRIGOOOZHIN, PAVELLL EEEVGENYEVICH"
+UID-227,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Individual,UID-227 - 278,7188,"MORCILLO TORRES, Gracia","MORCILLLLO TORREEES, GRACCCIA"
+UID-227,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Individual,UID-227 - 10502,37489,"SABRI, Abdallah Yusuf Faisal","SABRI, ABDALLAAAH YUSUUUF FAISAAAL"
+UID-227,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Individual,UID-227 - 9266,35058,"MBAGA, Peter Charles","MBBBAGA, PETEEER CHARRRLES"
+UID-227,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Individual,UID-227 - 4688,20953,"DARWISH, Saji Jamil","DDDARWISH, SAJIII JAAAMIL"
+UID-227,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Individual,UID-227 - 58,2679,"FADLALLAH, Shaykh Muhammad Husayn","FAAADLALLAH, SHAYKH MUHAMMADDD HHHUSAYN"
+UID-227,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Individual,UID-227 - 2414,12631,"GADDAFI, Saif Al-Arab","GGGADDAFI, SAIFFF AL-ARABBB"
+UID-227,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Individual,UID-227 - 8786,33175,"PECHAN, Ihar Mikalaevich","PECHAAAN, IIIHAR MIKKKALAEVICH"
+UID-227,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Individual,UID-227 - 9673,35649,"KOLESNIKOV, Oleg Alekseyevich","KOLESNIKOVVV, OLLLEG AAALEKSEYEVICH"
+UID-227,Names where name parts are Modified,Repetitions,> 2 letters repeated twice,Individual,UID-227 - 4498,20110,"CASTILLO RODRIGUEZ, Julio Alberto","CASTILLLLO RODRIGUEZ, JULLLIO ALBBBERTO"
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Entity,UID-230 - 4769,21116,"RODRIGUEZ LOPEZ, S.A. DE C.V.","RODRIGUEZ LOPEZ, S.A. DE CC.V."
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Entity,UID-230 - 3321,16086,DCB FINANCE LIMITED,DCB FINANCE LLIMITED
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Entity,UID-230 - 376,7472,ANSAR AL-ISLAM,ANSAR AL-IISLAM
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Entity,UID-230 - 3956,18027,STATE ENTERPRISE KERCH SEA COMMERCIAL PORT,STATE ENTERPRISE KERCH SSEA COMMERCIAL PORT
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Entity,UID-230 - 4539,20210,FKU UPRDOR 'TAMAN',FKUU UPRDOR 'TAMAN'
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Entity,UID-230 - 4533,20203,OAO 'URANIS-RADIOSISTEMY',OOAO 'URANIS-RADIOSISTEMY'
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Entity,UID-230 - 6354,25447,ISIM SININ LIMITED,ISIM SININN LIMITED
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Entity,UID-230 - 7449,28061,"SPRAVA A INKASO POHLADAVOK, S.R.O.","SPRAVVA A INKASO POHLADAVOK, S.R.O."
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Entity,UID-230 - 1554,10601,KHAN & SCHIRINDEL GMBH,KHAAN & SCHIRINDEL GMBH
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Entity,UID-230 - 8695,32681,LIMITED LIABILITY COMPANY NEW OIL COMPANY EAST,LIIMITED LIABILITY COMPANY NEW OIL COMPANY EAST
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Individual,UID-230 - 9664,35640,"KACHKAYEV, Pavel Ryurikovich","KACHKAYEV, PAVEL RRYURIKOVICH"
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Individual,UID-230 - 153,6713,"OGUNGBUYI, Abeni O.","OGUNGBUYI, ABENI OO."
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Individual,UID-230 - 5143,22113,"'ALI, Muhammad","'ALI, MMUHAMMAD"
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Individual,UID-230 - 7850,29387,"RAHIMIAN, Pezhman","RAHIMIIAN, PEZHMAN"
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Individual,UID-230 - 1791,11315,"EL HABHAB, Redouane","EL HABHAB, REEDOUANE"
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Individual,UID-230 - 5093,22063,"SALIM, Ahmad","SAALIM, AHMAD"
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Individual,UID-230 - 6023,24544,"QASIR, Muhammad","QASIRR, MUHAMMAD"
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Individual,UID-230 - 2144,11953,"GONZALEZ CASTRO, Gustavo","GONZALEZ CASTRO, GUSTAVVO"
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Individual,UID-230 - 4701,20967,"AL-HAMO, Ahmad","AL-HAMO, AHMMAD"
+UID-230,Names where name parts are Modified,Repetitions,1 letters repeated once,Individual,UID-230 - 8470,31773,"MAUNG, Mahn Nyein","MAUNG, MMAHN NYEIN"
+UID-232,Names where name parts are Modified,Repetitions,1 letters repeated twice,Entity,UID-232 - 6840,26413,GOLDPHARMA DRUG TRAFFICKING & MONEY LAUNDERING ORGANIZATION,GOLDPHARMA DRUG TRAFFICKING & MMMONEY LAUNDERING ORGANIZATION
+UID-232,Names where name parts are Modified,Repetitions,1 letters repeated twice,Entity,UID-232 - 2616,13109,POUYA AIR,POUYAAA AIR
+UID-232,Names where name parts are Modified,Repetitions,1 letters repeated twice,Entity,UID-232 - 8082,30222,STRAIT SHIPBROKERS PTE. LTD.,STTTRAIT SHIPBROKERS PTE. LTD.
+UID-232,Names where name parts are Modified,Repetitions,1 letters repeated twice,Entity,UID-232 - 3450,16469,H Y J COMERCIALIZADORA INTERNACIONAL LTDA,H Y J COMERCIALIZADORA IIINTERNACIONAL LTDA
+UID-232,Names where name parts are Modified,Repetitions,1 letters repeated twice,Entity,UID-232 - 3033,15609,MOVEMENT FOR UNITY AND JIHAD IN WEST AFRICA,MOVEMENT FOR UNITY AND JIHAD IN WEST AFRIIICA
+UID-232,Names where name parts are Modified,Repetitions,1 letters repeated twice,Entity,UID-232 - 1779,11303,HONG PANG LIVESTOCK DEVELOPMENT COMPANY LIMITED,HONNNG PANG LIVESTOCK DEVELOPMENT COMPANY LIMITED
+UID-232,Names where name parts are Modified,Repetitions,1 letters repeated twice,Entity,UID-232 - 8387,31165,INTERNATIONAL ANTICRISIS CENTER,INTERNATIONAL ANTICRISIS CENNNTER
+UID-232,Names where name parts are Modified,Repetitions,1 letters repeated twice,Entity,UID-232 - 5741,23654,KING ROMANS COMPANY LIMITED,KIIING ROMANS COMPANY LIMITED
+UID-232,Names where name parts are Modified,Repetitions,1 letters repeated twice,Entity,UID-232 - 8817,33280,YUMMY BE CHARM TRADING HK LIMITED,YUUUMMY BE CHARM TRADING HK LIMITED
+UID-232,Names where name parts are Modified,Repetitions,1 letters repeated twice,Entity,UID-232 - 853,8306,A.W.A. ENGINEERING LIMITED,A.W.A. ENGINEERING LIMITEDDD
+UID-233,Names where name parts are Modified,Repetitions,1 letters repeated twice,Individual,UID-233 - 852,8294,"RUPRAH, Sanjivan Singh","RRRUPRAH, SANJIVAN SINGH"
+UID-233,Names where name parts are Modified,Repetitions,1 letters repeated twice,Individual,UID-233 - 4774,21123,"JUBAYR AL-RAWI, Fawaz Muhammad","JUBAYYYR AL-RAWI, FAWAZ MUHAMMAD"
+UID-233,Names where name parts are Modified,Repetitions,1 letters repeated twice,Individual,UID-233 - 3755,17147,"CABRERA SARABIA, Alejandro","CABRERA SARABIAAA, ALEJANDRO"
+UID-233,Names where name parts are Modified,Repetitions,1 letters repeated twice,Individual,UID-233 - 3887,17616,"RYU, Jin","RYYYU, JIN"
+UID-233,Names where name parts are Modified,Repetitions,1 letters repeated twice,Individual,UID-233 - 5229,22262,"ABBAS, Muhammad","ABBAAAS, MUHAMMAD"
+UID-233,Names where name parts are Modified,Repetitions,1 letters repeated twice,Individual,UID-233 - 839,8263,"AL-AQIL, Aqeel Abdulaziz Aqeeil","AL-AQIL, AQQQEEL ABDULAZIZ AQEEIL"
+UID-233,Names where name parts are Modified,Repetitions,1 letters repeated twice,Individual,UID-233 - 7152,27015,"AL-JUBOURI, Ahmad Abdullah","AL-JUBOURI, AHMAD ABDULLLLAH"
+UID-233,Names where name parts are Modified,Repetitions,1 letters repeated twice,Individual,UID-233 - 1135,9451,"SALEH, Dr. Abdul Latif","SALEH, DRRR. ABDUL LATIF"
+UID-233,Names where name parts are Modified,Repetitions,1 letters repeated twice,Individual,UID-233 - 10406,37345,"MOSKVICHEV, Evgeny Sergeyevich","MOSKVICHEV, EVGENYYY SERGEYEVICH"
+UID-233,Names where name parts are Modified,Repetitions,1 letters repeated twice,Individual,UID-233 - 6704,26093,"AL-QAHTANI, Saud","AL-QAAAHTANI, SAUD"
+UID-235,Names where name parts are Modified,Repetitions,2 letters repeated once,Entity,UID-235 - 9243,35011,LLC NM-TEKH,LLLC NM-TTEKH
+UID-235,Names where name parts are Modified,Repetitions,2 letters repeated once,Entity,UID-235 - 2570,13015,"GRUPO COMERCIAL SAN BLAS, S.A. DE C.V.","GRUPO CCOMERCIAL SAN BLAS, S.A. DE CC.V."
+UID-235,Names where name parts are Modified,Repetitions,2 letters repeated once,Entity,UID-235 - 4250,18994,KREMSONT COMMERCIAL INC.,KRREMSONT CCOMMERCIAL INC.
+UID-235,Names where name parts are Modified,Repetitions,2 letters repeated once,Entity,UID-235 - 233,7132,UMMAH TAMEER E-NAU,UMMMAH TAMEER E-NAAU
+UID-235,Names where name parts are Modified,Repetitions,2 letters repeated once,Entity,UID-235 - 5997,24515,KOREA UNGUM CORPORATION,KOREA UNGUMM CORPPORATION
+UID-235,Names where name parts are Modified,Repetitions,2 letters repeated once,Entity,UID-235 - 1699,10997,FLETES Y TRANSPORTES GAXGAR S.A. DE C.V.,FLEETES Y TRANSPORTES GAXGAR S.A. DE C.VV.
+UID-235,Names where name parts are Modified,Repetitions,2 letters repeated once,Entity,UID-235 - 9400,35338,ODK-SATURN PUBLIC JOINT-STOCK COMPANY,OODK-SATURN PUBLIC JOINNT-STOCK COMPANY
+UID-235,Names where name parts are Modified,Repetitions,2 letters repeated once,Entity,UID-235 - 4192,18788,RT-INFORM LIMITED LIABILITY COMPANY,RT-INFORM LIMITEED LIABBILITY COMPANY
+UID-235,Names where name parts are Modified,Repetitions,2 letters repeated once,Entity,UID-235 - 9951,36296,UNCHON TRADING CORPORATION,UNNCHON TRADING CORPORRATION
+UID-235,Names where name parts are Modified,Repetitions,2 letters repeated once,Entity,UID-235 - 9937,36138,"IONOV TRANSKONTINENTAL, OOO","IONOOV TRANSKONTINENTAL, OOOO"
+UID-236,Names where name parts are Modified,Repetitions,2 letters repeated once,Individual,UID-236 - 7416,28024,"BALUKU, Seka Musa","BALUKU, SEKAA MUSSA"
+UID-236,Names where name parts are Modified,Repetitions,2 letters repeated once,Individual,UID-236 - 10336,37113,"POPOV, Anatoliy Leonidovich","POPOV, ANAATOLIY LEONIDDOVICH"
+UID-236,Names where name parts are Modified,Repetitions,2 letters repeated once,Individual,UID-236 - 9292,35084,"TOKAREV, Nikolay Petrovich","TOKAREV, NIKOLAYY PETROVICCH"
+UID-236,Names where name parts are Modified,Repetitions,2 letters repeated once,Individual,UID-236 - 887,8348,"ATIA, Hachim K.","AATIA, HACHIM KK."
+UID-236,Names where name parts are Modified,Repetitions,2 letters repeated once,Individual,UID-236 - 9178,34779,"PANTUS, Dmitry Aleksandrovich","PANTUS, DMMITRY ALEKSANDRROVICH"
+UID-236,Names where name parts are Modified,Repetitions,2 letters repeated once,Individual,UID-236 - 9333,35226,"BEGLOV, Aleksandr Dmitrievich","BEGLOV, ALEKSANDRR DMITRIEVICHH"
+UID-236,Names where name parts are Modified,Repetitions,2 letters repeated once,Individual,UID-236 - 3910,17753,"ABISOV, Sergei","ABISOOV, SERGEII"
+UID-236,Names where name parts are Modified,Repetitions,2 letters repeated once,Individual,UID-236 - 2229,12178,"GONZALEZ MEDINA, Jaime Andres","GONZALEZ MEEDINA, JAIME ANDRESS"
+UID-236,Names where name parts are Modified,Repetitions,2 letters repeated once,Individual,UID-236 - 839,8263,"AL-AQIL, Aqeel Abdulaziz Aqeeil","AL-AQIL, AQEEEL ABDULAZIZ AAQEEIL"
+UID-236,Names where name parts are Modified,Repetitions,2 letters repeated once,Individual,UID-236 - 10249,37006,"SADYGOV, Famil Kamil Ogly","SADDYGOV, FAMIL KAMILL OGLY"
+UID-238,Names where name parts are Modified,Repetitions,2 letters repeated twice,Entity,UID-238 - 8043,30125,JAMBANYANI SAFARIS,JAMBANYANNNI SSSAFARIS
+UID-238,Names where name parts are Modified,Repetitions,2 letters repeated twice,Entity,UID-238 - 10552,37685,JOINT STOCK COMPANY CENTER OF RESEARCH AND TECHNOLOGY SERVICES DINAMIKA,JOINT STOCK COMPANY CENTER OF RESEARCH AND TECHNOLOGGGY SERVVVICES DINAMIKA
+UID-238,Names where name parts are Modified,Repetitions,2 letters repeated twice,Entity,UID-238 - 1890,11490,ASES DE COMPETENCIA Y CIA. S.A.,ASES DDDE COMPETENCIA Y CIAAA. S.A.
+UID-238,Names where name parts are Modified,Repetitions,2 letters repeated twice,Entity,UID-238 - 23,636,"CUMEXINT, S.A.","CUMMMEXINT, S.AAA."
+UID-238,Names where name parts are Modified,Repetitions,2 letters repeated twice,Entity,UID-238 - 10496,37483,ANDA COMPANY,ANNNDA COMPPPANY
+UID-238,Names where name parts are Modified,Repetitions,2 letters repeated twice,Entity,UID-238 - 6597,25889,BEHSAZAN PARS EQUIPMENT DEVELOPMENT,BEHSAAAZAN PARS EEEQUIPMENT DEVELOPMENT
+UID-238,Names where name parts are Modified,Repetitions,2 letters repeated twice,Entity,UID-238 - 10595,37770,LIMITED LIABILITY COMPANY ALFA-INVEST,LIMITED LIABILITY COMPPPANY ALFA-INVESSST
+UID-238,Names where name parts are Modified,Repetitions,2 letters repeated twice,Entity,UID-238 - 8185,30466,LETIA COMPANY,LEEETIA COMPANNNY
+UID-238,Names where name parts are Modified,Repetitions,2 letters repeated twice,Entity,UID-238 - 6156,25063,AL HARAM FOREIGN EXCHANGE CO. LTD,AL HAAARAM FOREIGN EXXXCHANGE CO. LTD
+UID-238,Names where name parts are Modified,Repetitions,2 letters repeated twice,Entity,UID-238 - 1886,11486,GRUPO FALCON S.A.,GRUPO FAAALCON S.AAA.
+UID-239,Names where name parts are Modified,Repetitions,2 letters repeated twice,Individual,UID-239 - 10359,37298,"ARAPOV, Georgy Konstantinovich","ARAPOV, GEORGYYY KONNNSTANTINOVICH"
+UID-239,Names where name parts are Modified,Repetitions,2 letters repeated twice,Individual,UID-239 - 4554,20245,"ALI, Aous","AAALI, AOUSSS"
+UID-239,Names where name parts are Modified,Repetitions,2 letters repeated twice,Individual,UID-239 - 8605,32231,"DANIEL, Saw","DAAANIEL, SAWWW"
+UID-239,Names where name parts are Modified,Repetitions,2 letters repeated twice,Individual,UID-239 - 5070,22040,"ASWAD, Ali","ASWADDD, ALIII"
+UID-239,Names where name parts are Modified,Repetitions,2 letters repeated twice,Individual,UID-239 - 3114,15719,"CAMBIS, Dimitris","CCCAMBIS, DIMITTTRIS"
+UID-239,Names where name parts are Modified,Repetitions,2 letters repeated twice,Individual,UID-239 - 8821,33285,"GURLEYEN, Soner","GURLEEEYEN, SOOONER"
+UID-239,Names where name parts are Modified,Repetitions,2 letters repeated twice,Individual,UID-239 - 515,7727,"LUSHTAKU, Sami","LUSHTTTAKU, SAMMMI"
+UID-239,Names where name parts are Modified,Repetitions,2 letters repeated twice,Individual,UID-239 - 9644,35620,"IVANINSKIY, Oleg Ivanovich","IVVVANINSKIY, OLEG IVANOVVVICH"
+UID-239,Names where name parts are Modified,Repetitions,2 letters repeated twice,Individual,UID-239 - 4817,21287,"GAGLOEV, Vladimir","GAGLOEVVV, VLADIMMMIR"
+UID-239,Names where name parts are Modified,Repetitions,2 letters repeated twice,Individual,UID-239 - 5701,23586,"ANTIPOV, Igor Yurievich","ANTIIIPOV, IGORRR YURIEVICH"
+UID-241,Names where name parts are Modified,Repetitions,Very Short Name,Entity,UID-241 - 92,16860,TEMPBANK,TEMPBAANK
+UID-241,Names where name parts are Modified,Repetitions,Very Short Name,Entity,UID-241 - 60,12869,SYTROL,SYTTROL
+UID-241,Names where name parts are Modified,Repetitions,Very Short Name,Entity,UID-241 - 4,621,CUBANATUR,CUUBANATUR
+UID-241,Names where name parts are Modified,Repetitions,Very Short Name,Entity,UID-241 - 69,13382,LOLALIMES,LOLALIMEES
+UID-241,Names where name parts are Modified,Repetitions,Very Short Name,Entity,UID-241 - 130,24230,GAZ GROUP,GAZZ GROUP
+UID-241,Names where name parts are Modified,Repetitions,Very Short Name,Entity,UID-241 - 23,8813,KOMOTKO,KOOMOTKO
+UID-241,Names where name parts are Modified,Repetitions,Very Short Name,Entity,UID-241 - 171,30864,NABULEAKS,NAABULEAKS
+UID-241,Names where name parts are Modified,Repetitions,Very Short Name,Entity,UID-241 - 43,10890,SYRIATEL,SYRIATEEL
+UID-241,Names where name parts are Modified,Repetitions,Very Short Name,Entity,UID-241 - 19,7917,INTERPAL,INTERRPAL
+UID-241,Names where name parts are Modified,Repetitions,Very Short Name,Entity,UID-241 - 191,35016,JSC SLAVA,JJSC SLAVA
+UID-242,Names where name parts are Modified,Repetitions,Very Short Name,Individual,UID-242 - 81,29542,"SHI, Min","SHI, MMIN"
+UID-242,Names where name parts are Modified,Repetitions,Very Short Name,Individual,UID-242 - 107,34436,"DIAB, Adel","DIAB, ADDEL"
+UID-242,Names where name parts are Modified,Repetitions,Very Short Name,Individual,UID-242 - 63,26890,"FOZ, Husen","FOZ, HUUSEN"
+UID-242,Names where name parts are Modified,Repetitions,Very Short Name,Individual,UID-242 - 51,23009,"RI, Ho Nam","RI, HOO NAM"
+UID-242,Names where name parts are Modified,Repetitions,Very Short Name,Individual,UID-242 - 22,15552,"FAZLI, Ali","FAZLI, AALI"
+UID-242,Names where name parts are Modified,Repetitions,Very Short Name,Individual,UID-242 - 37,20127,"RI, Jae Il","RII, JAE IL"
+UID-242,Names where name parts are Modified,Repetitions,Very Short Name,Individual,UID-242 - 64,26944,"KIM, Su Il","KIM, SUU IL"
+UID-242,Names where name parts are Modified,Repetitions,Very Short Name,Individual,UID-242 - 23,15982,"KIM, Lidia","KIIM, LIDIA"
+UID-242,Names where name parts are Modified,Repetitions,Very Short Name,Individual,UID-242 - 71,27313,"WALI, Noor","WALLI, NOOR"
+UID-242,Names where name parts are Modified,Repetitions,Very Short Name,Individual,UID-242 - 29,17367,"SAID, Khan","SAID, KHANN"
+UID-243,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Entity,UID-243 - 5490,23177,DANDONG HONGDA TRADE CO. LTD.,DANDONG HONGDA RADET O.C LDT.
+UID-243,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Entity,UID-243 - 109,6340,EDIFICACIONES DEL CARIBE LTDA.,EIDFICACIONES EDL ACRIBE LTDA.
+UID-243,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Entity,UID-243 - 4822,21308,MINISTRY OF LABOR,MIINSTRY FO LRABO
+UID-243,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Entity,UID-243 - 7277,27286,HAMRAHAN PISHRO TEJARAT TRADING COMPANY,HARAHMAN PSHIRO TEJARAT TRADNIG OCMPANY
+UID-243,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Entity,UID-243 - 1379,10251,INTERNACIONAL DE PROYECTOS INMOBILIARIA IPI S.A.,INATERNCIONAL DE ROPYECTOS INMIOBLIARIA IIP S.A.
+UID-243,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Entity,UID-243 - 3296,16020,IRAN & SHARGH COMPANY,NIRA & SARHGH COAMPNY
+UID-243,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Entity,UID-243 - 7242,27236,GLOBAL ENERGY COMPANY S.A.S.,GOLBAL EYNERG COMPANY .A.SS.
+UID-243,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Entity,UID-243 - 8437,31516,MYANMAR ECONOMIC CORPORATION LIMITED,MYANMAR EMCONOIC CORPORTAION LIMIETD
+UID-243,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Entity,UID-243 - 2844,15142,MINAB SHIPPING COMPANY LIMITED,MNABI SHIGPPIN COPMANY LIMITED
+UID-243,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Entity,UID-243 - 5670,23524,CK INTERNATIONAL LTD,KC INTERNATIOALN LDT
+UID-244,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Individual,UID-244 - 3264,15975,"HENRIQUEZ SOLORZANO, Borromeo Enrique","HENRIUQEZ SOLORZANO, BOROMEOR EQNRIUE"
+UID-244,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Individual,UID-244 - 1863,11461,"AL-MUHANDIS, Abu Mahdi","AL-UHMANDIS, BUA MAHID"
+UID-244,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Individual,UID-244 - 3181,15843,"VILLA SANCHEZ, Arnoldo","ILLVA SNACHEZ, ARNOOLD"
+UID-244,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Individual,UID-244 - 7151,27014,"AL-SULTAN, Nawfal Hammadi","NAL-SULTA, NAWAFL HAMAMDI"
+UID-244,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Individual,UID-244 - 4049,18323,"KURCHENKO, Sergey Vitalievich","KUCHERNKO, SRGEEY VITAILEVICH"
+UID-244,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Individual,UID-244 - 2989,15528,"PEREZ HENAO, Diego","PEERZ HEANO, DIGEO"
+UID-244,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Individual,UID-244 - 9579,35555,"BATALOVA, Rima Akberdinovna","BTALAOVA, ARIM ABERDINOKVNA"
+UID-244,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Individual,UID-244 - 5925,24317,"BOGDANOV, Vladimir Leonidovich","BOGDAOV,N VLAIDMIR LIEONDOVICH"
+UID-244,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Individual,UID-244 - 10131,36806,"KOZHANOVA, Irina Andreyevna","KOHANOVZA, IRIAN ANDREYVENA"
+UID-244,Names where name parts are Modified,Transpositions,> 2 transpositions (different name part),Individual,UID-244 - 3491,16560,"LIMON SANCHEZ, Alfonso","ILMON SANZCHE, FALONSO"
+UID-245,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Entity,UID-245 - 10750,38223,TECHNOPARK SKOLKOVO LIMITED LIABILITY COMPANY,POEHTNRKCA SKOLKOVO LIMITED LIABILITY COMPANY
+UID-245,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Entity,UID-245 - 5744,23665,BLUE LAGOON GROUP LTD.,BLUE LAGOON GROUP DLT.
+UID-245,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Entity,UID-245 - 1463,10408,AL-SALAH SOCIETY,AL-SALAH SCOTIEY
+UID-245,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Entity,UID-245 - 2629,13128,NEW AHMADI LTD.,NEW AADMIH LTD.
+UID-245,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Entity,UID-245 - 2251,12213,SECOND ECONOMIC COMMITTEE,DCOSEN ECONOMIC COMMITTEE
+UID-245,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Entity,UID-245 - 9777,35816,66TH LIGHT INFANTRY DIVISION,66TH TGLHI INFANTRY DIVISION
+UID-245,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Entity,UID-245 - 7493,28170,DAMOUR 850 SAL,DAMOUR 850 SLA
+UID-245,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Entity,UID-245 - 7641,28535,CITY PHARMA SARL,CITY PHARMA ARLS
+UID-245,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Entity,UID-245 - 4569,20261,"1425 BRICKELL AVENUE UNIT 46B, LLC","1425 ILCKBELR AVENUE UNIT 46B, LLC"
+UID-245,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Entity,UID-245 - 1265,9973,INMOBILIARIA LA PROVINCIA S.A. DE C.V.,INMOBILIARIA LA VPNIOCIRA S.A. DE C.V.
+UID-246,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Individual,UID-246 - 3818,17275,"SUKIRNO, Bambang","SUKIRNO, BBGAMAN"
+UID-246,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Individual,UID-246 - 2419,12667,"DE GARIKOITZ ASPIAZU RUBINA, Miguel","DE GARIKOITZ ASPIAZU IRBUNA, MIGUEL"
+UID-246,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Individual,UID-246 - 4098,18554,"KIM, Kyong Nam","KIM, KYONG AMN"
+UID-246,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Individual,UID-246 - 7802,29162,"WANG, Mingshan","A,GNW MINGSHAN"
+UID-246,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Individual,UID-246 - 10159,36834,"NAROLIN, Alexander Vladimirovich","NAROLIN, ALEXANDER RALHVIDOVMICI"
+UID-246,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Individual,UID-246 - 8407,31293,"PRIBYSHIN, Taras Kirillovich","PRIBYSHIN, TARAS IILOLKVHIRC"
+UID-246,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Individual,UID-246 - 8273,30682,"CORNIELLES RUIZ, Lorena Carolina","CORNIELLES RUIZ, ELONRA CAROLINA"
+UID-246,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Individual,UID-246 - 1692,10990,"DUARTE MUNOZ, Roque","DUARTE MOZN,U ROQUE"
+UID-246,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Individual,UID-246 - 6818,26385,"TALEBZADEH, Zeinab Mehanna","ALBEHTEAZD, ZEINAB MEHANNA"
+UID-246,Names where name parts are Modified,Transpositions,> 2 transpositions (same name part),Individual,UID-246 - 10785,38579,"CHECHIKHIN, Yuriy Valeryevich","CKNHHCIEI,H YURIY VALERYEVICH"
+UID-247,Names where name parts are Modified,Transpositions,1 transposition - 2 letters Any where,Entity,UID-247 - 5612,23421,PETROPARK S.R.L.,EPTROPARK S.R.L.
+UID-247,Names where name parts are Modified,Transpositions,1 transposition - 2 letters Any where,Entity,UID-247 - 2992,15536,BAQIYATTALLAH UNIVERSITY OF MEDICAL SCIENCES,BAQIYATTALLAH UNIVERSITY OF EMDICAL SCIENCES
+UID-247,Names where name parts are Modified,Transpositions,1 transposition - 2 letters Any where,Entity,UID-247 - 4374,19493,MINISTRY OF ATOMIC ENERGY INDUSTRY,MINISTRY OF ATOMIC ENERGY NIDUSTRY
+UID-247,Names where name parts are Modified,Transpositions,1 transposition - 2 letters Any where,Entity,UID-247 - 8340,30922,JOINT-STOCK COMPANY THE BERKAKIT-TOMMOT-YAKUTSK RAILWAY LINE'S CONSTRUCTION DIRECTORATE,JOINT-STOCK COMPANY THE BERKAKIT-TOMMOT-YAKUTSK RAILWAY LINE'S OCNSTRUCTION DIRECTORATE
+UID-247,Names where name parts are Modified,Transpositions,1 transposition - 2 letters Any where,Entity,UID-247 - 4451,19789,MINISTRY OF STATE SECURITY PRISONS BUREAU,MINISTRY OF STATE SECURITY PRISONS BUREUA
+UID-247,Names where name parts are Modified,Transpositions,1 transposition - 2 letters Any where,Entity,UID-247 - 8292,30756,WEST ALBORZ STEEL COMPLEX,WEST ALBORZ STEEL CMOPLEX
+UID-247,Names where name parts are Modified,Transpositions,1 transposition - 2 letters Any where,Entity,UID-247 - 9094,34617,TEKHNOLOGII KREDITOVANIYA LIMITED LIABILITY COMPANY,TKEHNOLOGII KREDITOVANIYA LIMITED LIABILITY COMPANY
+UID-247,Names where name parts are Modified,Transpositions,1 transposition - 2 letters Any where,Entity,UID-247 - 8013,29903,VAKILABAD PRISON,VAKILABAD PIRSON
+UID-247,Names where name parts are Modified,Transpositions,1 transposition - 2 letters Any where,Entity,UID-247 - 6146,25043,IRAN ZINC MINES DEVELOPMENT COMPANY,IRAN ZINC MINES DEEVLOPMENT COMPANY
+UID-247,Names where name parts are Modified,Transpositions,1 transposition - 2 letters Any where,Entity,UID-247 - 10068,36596,OOO INZHINIRING.RF,OOO INZHINIRIGN.RF
+UID-248,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Entity,UID-248 - 7029,26747,OFFISCOOP NV,FOFISCOOP NV
+UID-248,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Entity,UID-248 - 10676,37863,GTLK MIDDLE EAST FREE ZONE COMPANY,TGLK MIDDLE EAST FREE ZONE COMPANY
+UID-248,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Entity,UID-248 - 6000,24518,"DANDONG ZHONGSHENG INDUSTRY & TRADE CO., LTD.","ADNDONG ZHONGSHENG INDUSTRY & TRADE CO., LTD."
+UID-248,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Entity,UID-248 - 166,6730,HAPPY DAYS S. DE H.,AHPPY DAYS S. DE H.
+UID-248,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Entity,UID-248 - 3999,18209,TARTOUS PORT GENERAL COMPANY,ATRTOUS PORT GENERAL COMPANY
+UID-248,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Entity,UID-248 - 5231,22264,BARLY OFF-SHORE,ABRLY OFF-SHORE
+UID-248,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Entity,UID-248 - 6190,25178,JOINT STOCK COMPANY SANATORIUM DYULBER,OJINT STOCK COMPANY SANATORIUM DYULBER
+UID-248,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Entity,UID-248 - 6656,25951,RAILCOM RAAHBAR CO.,ARILCOM RAAHBAR CO.
+UID-248,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Entity,UID-248 - 10605,37780,JOINT STOCK COMPANY RUSSIAN RESEARCH INSTITUTE ELECTRONSTANDART,OJINT STOCK COMPANY RUSSIAN RESEARCH INSTITUTE ELECTRONSTANDART
+UID-248,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Entity,UID-248 - 5776,23722,LIIBAAN GENERAL TRADING CO.,ILIBAAN GENERAL TRADING CO.
+UID-249,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Individual,UID-249 - 10087,36762,"AFANASOV, Mikhail Alexandrovich","FAANASOV, MIKHAIL ALEXANDROVICH"
+UID-249,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Individual,UID-249 - 10940,39556,"BAKR, Osama Abdelmongy Abdalla","ABKR, OSAMA ABDELMONGY ABDALLA"
+UID-249,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Individual,UID-249 - 4774,21123,"JUBAYR AL-RAWI, Fawaz Muhammad","UJBAYR AL-RAWI, FAWAZ MUHAMMAD"
+UID-249,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Individual,UID-249 - 983,8808,"AL-FAQIH, Saad Rashed Mohammad","LA-FAQIH, SAAD RASHED MOHAMMAD"
+UID-249,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Individual,UID-249 - 4246,18990,"NICOLAOU, Nicos","INCOLAOU, NICOS"
+UID-249,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Individual,UID-249 - 4110,18590,"LAABOUDI, Morad","ALABOUDI, MORAD"
+UID-249,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Individual,UID-249 - 2047,11814,"GUTIERREZ HERNANDEZ, Javier Mauricio","UGTIERREZ HERNANDEZ, JAVIER MAURICIO"
+UID-249,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Individual,UID-249 - 3504,16627,"VALLE VALLE, Jose Reynerio","AVLLE VALLE, JOSE REYNERIO"
+UID-249,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Individual,UID-249 - 4839,21385,"USMAN, Bachrumsyah Mennor","SUMAN, BACHRUMSYAH MENNOR"
+UID-249,Names where name parts are Modified,Transpositions,1 transposition - 2 letters at the beginning,Individual,UID-249 - 8682,32631,"DRYL, Hleb Uladzimiravich","RDYL, HLEB ULADZIMIRAVICH"
+UID-250,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Entity,UID-250 - 7217,27191,TRUST INSURANCE SERVICES S.A.L.,T SUSNERANU TSECSRICVES .A.IRL.
+UID-250,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Entity,UID-250 - 909,8377,JARACO S.A.,AJARSCA O..
+UID-250,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Entity,UID-250 - 35,1042,INSTITUTO NACIONAL DE TURISMO DE CUBA,RNTSCTUTOU NAEODNAD  TIIISI CLEO UMAB
+UID-250,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Entity,UID-250 - 1668,10927,JOZA INDUSTRIAL COMPANY,JOZ INDUSRIOAL ATCMPANY
+UID-250,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Entity,UID-250 - 4445,19730,MAZAKA GENERAL TRADING L.L.C.,AZAKMA GENERA TRALDING L.L.C.
+UID-250,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Entity,UID-250 - 6353,25446,ISIM ATR LIMITED,TIAE TR SLIMIMDI
+UID-250,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Entity,UID-250 - 9811,35874,TRV AUTO LIMITED LIABILITY COMPANY,IA AUATOI LIMNYBET IDVILL COTMPTRY
+UID-250,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Entity,UID-250 - 3127,15734,KONING MARINE CORP,KNIGN MINAROR OECP
+UID-250,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Entity,UID-250 - 8048,30142,MORVARID PETROCHEMICAL,MLORARID PETROCHEMIVCA
+UID-250,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Entity,UID-250 - 793,8210,AL WASEL AND BABEL GENERAL TRADING LLC,AWALL ASEL N LBABEL GAENERAD TRDIN LGC
+UID-251,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Individual,UID-251 - 8178,30425,"MOHAMED, Abdullahi Osman","MOHADM,L ABUILHEADS OMAN"
+UID-251,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Individual,UID-251 - 7941,29811,"BABAIE, Nematollah Hosein","AEBOEAIBN, MSNEIAATOLLH H"
+UID-251,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Individual,UID-251 - 10944,39616,"KHIABANI, Hossein Modarres","KIAAASI,EH BOSNIS OMDRRNHE"
+UID-251,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Individual,UID-251 - 3773,17177,"BEREZIN, Fedor","EROFZ, BEEDNIR"
+UID-251,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Individual,UID-251 - 2382,12577,"KALKAN, Duran","KKAALNN, DAUR"
+UID-251,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Individual,UID-251 - 7117,26946,"MADURO GUERRA, Nicolas Ernesto","EUTEMA NRRRIERASU, NDCAOO LGSO"
+UID-251,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Individual,UID-251 - 8734,32757,"OO, Thida","OH,O TIAD"
+UID-251,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Individual,UID-251 - 7128,26983,"RUBIO GONZALEZ, Emmanuel Enrique","RIO GONZAEZ, ELUMMANUEBN EQILUER"
+UID-251,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Individual,UID-251 - 671,7899,"VASIC, Dragomir","RRAAOC, DMIIGVS"
+UID-251,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters anywhere,Individual,UID-251 - 4583,20282,"MURADOV, Georgiy L'vovich","AUE,YV OGIHRORMVI DLG'VOC"
+UID-252,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Entity,UID-252 - 10715,37998,PUBLICHNOE AKTSIONERNOE OBSCHESTVO MAGNITOGORSKIY METALLURGICHESKIY KOMBINAT,BPULICHNOE AKTSIONERNOE OBSCHESTVO MAGNITOGORSKIY METALLURGICHESKIY KOMBINAT
+UID-252,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Entity,UID-252 - 7349,27592,ALCARDINAL GENERAL TRADING LLC,CALARDINAL GENERAL TRADING LLC
+UID-252,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Entity,UID-252 - 8738,32768,MINISTERIO PUBLICO DE NICARAGUA,NMIISTERIO PUBLICO DE NICARAGUA
+UID-252,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Entity,UID-252 - 6319,25396,ISLAMIC REPUBLIC OF IRAN SHIPPING LINES,LISAMIC REPUBLIC OF IRAN SHIPPING LINES
+UID-252,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Entity,UID-252 - 10688,37877,NAJEE TECHNOLOGY HOOSHMAND FATER LLC,JNAEE TECHNOLOGY HOOSHMAND FATER LLC
+UID-252,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Entity,UID-252 - 10477,37442,SCF MANAGEMENT SERVICES CYPRUS LTD,FSC MANAGEMENT SERVICES CYPRUS LTD
+UID-252,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Entity,UID-252 - 5768,23713,KOREA SAMMA SHPG CO,RKOEA SAMMA SHPG CO
+UID-252,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Entity,UID-252 - 1835,11409,EDITORA TRANSPARENCIA S.A.,IEDTORA TRANSPARENCIA S.A.
+UID-252,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Entity,UID-252 - 6519,25684,EUROPAISCH-IRANISCHE HANDELSBANK AG,REUOPAISCH-IRANISCHE HANDELSBANK AG
+UID-252,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Entity,UID-252 - 8947,33997,FARMA IZVORI B.I.,RFAMA IZVORI B.I.
+UID-253,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Individual,UID-253 - 3850,17326,"MIHOUB, Qusay","HMIOUB, QUSAY"
+UID-253,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Individual,UID-253 - 10238,36961,"KHACHATUROV, Tigran Garikovich","AKHCHATUROV, TIGRAN GARIKOVICH"
+UID-253,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Individual,UID-253 - 6919,26569,"SHAFA'I, Mohsen","ASHFA'I, MOHSEN"
+UID-253,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Individual,UID-253 - 5025,21995,"DUMIT, Salim","MDUIT, SALIM"
+UID-253,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Individual,UID-253 - 5855,23944,"BYSTROV, Mikhail Ivanovich","SBYTROV, MIKHAIL IVANOVICH"
+UID-253,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Individual,UID-253 - 309,7222,"IBRAHIM, Haji","RIBAHIM, HAJI"
+UID-253,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Individual,UID-253 - 9546,35522,"SITNIKOV, Alexey Vladimirovich","TSINIKOV, ALEXEY VLADIMIROVICH"
+UID-253,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Individual,UID-253 - 9767,35780,"BELOUS, German Valentinovich","LBEOUS, GERMAN VALENTINOVICH"
+UID-253,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Individual,UID-253 - 4662,20882,"JASHARI, Abdul","SJAHARI, ABDUL"
+UID-253,Names where name parts are Modified,Transpositions,1 transposition - more than 2 letters at the beginning,Individual,UID-253 - 3341,16161,"ARECHIGA GAMBOA, Jose Rodrigo","EARCHIGA GAMBOA, JOSE RODRIGO"
+UID-254,Names where name parts are Modified,Transpositions,2 transposition - 2 letters Any where,Individual,UID-254 - 9338,35235,"NOVIKOV, Dmitriy Georgievich","NOOHVIKOV, DMITRIY GERGIEVIC"
+UID-254,Names where name parts are Modified,Transpositions,2 transposition - 2 letters Any where,Individual,UID-254 - 4781,21166,"LEBEDEV, Dmitri Alekseevich","LEBEDEV, DMITRI AEKSEEVILHC"
+UID-254,Names where name parts are Modified,Transpositions,2 transposition - 2 letters Any where,Individual,UID-254 - 1751,11275,"PO, Kong","PO,KO NG"
+UID-254,Names where name parts are Modified,Transpositions,2 transposition - 2 letters Any where,Individual,UID-254 - 4548,20239,"BYUTUKAEV, Aslan Avgazarovich","BVYUTUKAEV, ASLVAN AGAZAROICH"
+UID-254,Names where name parts are Modified,Transpositions,2 transposition - 2 letters Any where,Individual,UID-254 - 2516,12916,"IQBAL, Zafar","IQBAL,F ZAAR"
+UID-254,Names where name parts are Modified,Transpositions,2 transposition - 2 letters Any where,Individual,UID-254 - 9770,35784,"KOVALCHUK, Stepan Kirillovich","KOTVALCHUK,K SEPAN IRILLOVICH"
+UID-254,Names where name parts are Modified,Transpositions,2 transposition - 2 letters Any where,Individual,UID-254 - 2579,13025,"VALDEZ BENITES, Joel","ALDEZ ENVITES, JOBEL"
+UID-254,Names where name parts are Modified,Transpositions,2 transposition - 2 letters Any where,Individual,UID-254 - 2053,11833,"GUERRERO CASTILLO, Pedro Oliveiro","UERRERIO CASTILLO, PEDRGO OLIVERO"
+UID-254,Names where name parts are Modified,Transpositions,2 transposition - 2 letters Any where,Individual,UID-254 - 8129,30374,"OJI, Javad","JID, JAOVA"
+UID-254,Names where name parts are Modified,Transpositions,2 transposition - 2 letters Any where,Individual,UID-254 - 2264,12256,"NAJJAR, Mostafa Mohammad","NAJJR, MOTAFAA SMOHAMMAD"
+UID-255,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Entity,UID-255 - 3996,18159,ARENAS DE LORETO,ARENAS ED ORETOL
+UID-255,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Entity,UID-255 - 8877,33855,IZIBITS OU,IZIIBTS UO
+UID-255,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Entity,UID-255 - 6053,24667,FLEURETTE AFRICA RESOURCES I B.V.,FLERUETTE IAFRCA RESOURCES I B.V.
+UID-255,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Entity,UID-255 - 3801,17253,QUALITY AUTOS S.A.,QUALITY ATUOS S..A
+UID-255,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Entity,UID-255 - 7665,28607,ALAM ALTHRWA GENERAL TRADING LLC,LAAM ALTHWRA GENERAL TRADING LLC
+UID-255,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Entity,UID-255 - 8289,30753,VIAN STEEL COMPLEX,VIAN TSEEL COMLEPX
+UID-255,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Entity,UID-255 - 6477,25624,DAY E-COMMERCE,AYD -COMMERCEE
+UID-255,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Entity,UID-255 - 5540,23262,D.G.D. INVESTMENTS LTD.,D.G.D. IVESTMENNTS LDT.
+UID-255,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Entity,UID-255 - 8589,32127,EUROGROUP ENGINEERING EAD,EUROGROUP ENGGINEERIN AED
+UID-255,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Entity,UID-255 - 4016,18249,THE EAGLES L.L.C.,TEH EALESG L.L.C.
+UID-256,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Individual,UID-256 - 1190,9557,"CHIMUTENGWENDE, Chenhamo Chakezha Chen","CHIMUTENGWENDE, CHNHAMEO CHAKEZHA CEHN"
+UID-256,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Individual,UID-256 - 5439,23088,"KIM, Kang Jin","KIM, KNAG INJ"
+UID-256,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Individual,UID-256 - 10212,36887,"YAROSHUK, Alexander Georgievich","YAROHUK,S ALEXADENR GEORGIEVICH"
+UID-256,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Individual,UID-256 - 4974,21944,"'ABBAS, Rim","'BABAS, RMI"
+UID-256,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Individual,UID-256 - 4934,21904,"ALOTAIBI, Mubarak Mohammed A","ALOTAIBI, MBARAUK MMOHAMED A"
+UID-256,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Individual,UID-256 - 5868,23957,"MOLCHANOV, Grigoriy Viktorovich","MOLCHANOV, GRIRGOIY VITORKOVICH"
+UID-256,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Individual,UID-256 - 4985,21955,"AL-MUDALLAL, Muhammad Zuhayr","AL-MUDALLAL, MUHMMAAD ZYUHAR"
+UID-256,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Individual,UID-256 - 4501,20113,"GONZALEZ VALENCIA, Elvis","GNOZALEZ VALENCIA, LVEIS"
+UID-256,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Individual,UID-256 - 670,7898,"SPASOJEVIC, Dragon","SIPASOJEVC, RAGODN"
+UID-256,Names where name parts are Modified,Transpositions,2 transpositions (different name part),Individual,UID-256 - 6748,26173,"MORENETS, Aleksei Sergeyevich","ORENETSM, ALEKSEI SERGECYEVIH"
+UID-257,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Entity,UID-257 - 6068,24683,"YAMAKI, K.K.","YAAMKI, K.K."
+UID-257,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Entity,UID-257 - 10510,37504,LIMITED LIABILITY COMPANY ALGORITM,IMLITDE LIABILITY COMPANY ALGORITM
+UID-257,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Entity,UID-257 - 1503,10473,SOCIEDAD SUPERDEPORTES LTDA.,SOCIEDAD SUPERDEPORTES DLTA.
+UID-257,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Entity,UID-257 - 9796,35859,PUBLIC JOINT STOCK COMPANY ARZAMASSKOE NAUCHNO PROIZVODSTVENNOE PREDPRIYATIE TEMP-AVIA,PUBLIC JOINT STOCK COMPANY ARZAMASSKOE NAUCHNO PROIZVODSTVENNOE REDPRPTIYAIE TEMP-AVIA
+UID-257,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Entity,UID-257 - 8555,32031,NOVE DEVELOPMENT EOOD,OENV DEVELOPMENT EOOD
+UID-257,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Entity,UID-257 - 964,8738,GREEN ISLAND S.A.,RNEGE ISLAND S.A.
+UID-257,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Entity,UID-257 - 201,6913,MAMOUN DARKAZANLI IMPORT-EXPORT COMPANY,MAMOUN DARKAZANLI IMPORT-EXPORT CPOANYM
+UID-257,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Entity,UID-257 - 9890,36025,GARANTEX EUROPE OU,GARANTEX EUROEP OU
+UID-257,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Entity,UID-257 - 7994,29867,SYRIAN TRANSPORT AND TOURISM COMPANY,SYRIAN TRRANPOST AND TOURISM COMPANY
+UID-257,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Entity,UID-257 - 7399,27989,"ALLYRISE TECHNOLOGY GROUP CO., LIMITED","ALLYRISE TECHNOLOGY GROUP CO., IILTEDM"
+UID-258,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Individual,UID-258 - 5172,22142,"'ULAYSHAH, Rana","'ULAYHAHS, RANA"
+UID-258,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Individual,UID-258 - 6067,24682,"HIENG, Hing Bun","HIENG, HING NUB"
+UID-258,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Individual,UID-258 - 204,6918,"AL-MUGHASSIL, Ahmad Ibrahim","AL-MUGHASSIL, AHMAD IRIBAHM"
+UID-258,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Individual,UID-258 - 5132,22102,"AL-KHUWAYLID, Ibrahim","A-KHUAYLWID,L IBRAHIM"
+UID-258,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Individual,UID-258 - 820,8241,"RAMCHARAN, Leebert","RACMRHAAN, LEEBERT"
+UID-258,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Individual,UID-258 - 5039,22009,"AL-'ALI, Zakariya","AL-'ALI, ZKAAARIY"
+UID-258,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Individual,UID-258 - 456,7656,"BEQIRI, Idajet","QEIRIB, IDAJET"
+UID-258,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Individual,UID-258 - 5254,22409,"PASECHNIK, Leonid Ivanovich","PASECHNIK, LEONID IVCANOVIH"
+UID-258,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Individual,UID-258 - 8984,34085,"SAFDARI, Masoud","SFADARI, MASOUD"
+UID-258,Names where name parts are Modified,Transpositions,2 transpositions (same name part),Individual,UID-258 - 570,7792,"SIMIC, Milan","MCSII, MILAN"
+UID-260,Names where name parts are Modified,Transpositions,Very Short Name,Entity,UID-260 - 139,25419,MB BANK,NMB BAK
+UID-260,Names where name parts are Modified,Transpositions,Very Short Name,Entity,UID-260 - 141,25619,DAY BANK,NDAY BAK
+UID-260,Names where name parts are Modified,Transpositions,Very Short Name,Entity,UID-260 - 120,22403,"KPSK, OOO","KSPK, OOO"
+UID-260,Names where name parts are Modified,Transpositions,Very Short Name,Entity,UID-260 - 42,10863,7TH OF TIR,7FTH O TIR
+UID-260,Names where name parts are Modified,Transpositions,Very Short Name,Entity,UID-260 - 149,26893,MAINPHARMA,MAINPHRMAA
+UID-260,Names where name parts are Modified,Transpositions,Very Short Name,Entity,UID-260 - 43,10890,SYRIATEL,SYRIAETL
+UID-260,Names where name parts are Modified,Transpositions,Very Short Name,Entity,UID-260 - 193,35078,OOO SERTAL,OOO SETALR
+UID-260,Names where name parts are Modified,Transpositions,Very Short Name,Entity,UID-260 - 196,35308,ALAXY,AALXY
+UID-260,Names where name parts are Modified,Transpositions,Very Short Name,Entity,UID-260 - 171,30864,NABULEAKS,NAUBLEAKS
+UID-260,Names where name parts are Modified,Transpositions,Very Short Name,Entity,UID-260 - 194,35080,MAJORY LLP,MAJOPRY LL
+UID-261,Names where name parts are Modified,Transpositions,Very Short Name,Individual,UID-261 - 80,29407,"SAQR, Fadi","SAQIR, FAD"
+UID-261,Names where name parts are Modified,Transpositions,Very Short Name,Individual,UID-261 - 58,23508,"KIM, Song","KI, SMONG"
+UID-261,Names where name parts are Modified,Transpositions,Very Short Name,Individual,UID-261 - 19,12940,"KHAN, Mali","HAN, MKALI"
+UID-261,Names where name parts are Modified,Transpositions,Very Short Name,Individual,UID-261 - 65,27013,"QADO, Waad","QAADO, WAD"
+UID-261,Names where name parts are Modified,Transpositions,Very Short Name,Individual,UID-261 - 78,28176,"SAAB, Tony","SAAOB, TNY"
+UID-261,Names where name parts are Modified,Transpositions,Very Short Name,Individual,UID-261 - 107,34436,"DIAB, Adel","IAB, ADDEL"
+UID-261,Names where name parts are Modified,Transpositions,Very Short Name,Individual,UID-261 - 91,31130,"AUNG, Ye","AUN, YEG"
+UID-261,Names where name parts are Modified,Transpositions,Very Short Name,Individual,UID-261 - 99,32471,"CHEN, Dong","HEN, DONGC"
+UID-261,Names where name parts are Modified,Transpositions,Very Short Name,Individual,UID-261 - 69,27226,"WIN, Soe","IN, SOWE"
+UID-261,Names where name parts are Modified,Transpositions,Very Short Name,Individual,UID-261 - 39,20245,"ALI, Aous","ALI, OUAS"
+UID-263,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Entity,UID-263 - 6738,26154,SOLUGA SOLUCIONES GASTRONOMICAS SRL,SOLUGA SOLUCIO GASTRONOMICAS SRL
+UID-263,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Entity,UID-263 - 1948,11612,MINES AND METALS ENGINEERING GMBH,MINES AND METALS ENGINEE GMBH
+UID-263,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Entity,UID-263 - 4890,21577,"AGRICOLA RUELAS, S.P.R. DE R.I.",AGRICOLA R S.P.R. DE R.I.
+UID-263,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Entity,UID-263 - 1667,10923,REVIVAL OF ISLAMIC HERITAGE SOCIETY,REVIVAL OF ISLAMIC HER SOCIETY
+UID-263,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Entity,UID-263 - 10722,38136,FEDERAL STATE BUDGETARY SCIENTIFIC INSTITUTION RESEARCH AND PRODUCTION COMPLEX TECHNOLOGY CENTER,FEDERAL STATE BUDGETARY SCIENTIFIC INSTITUTION RES AND PRODUCTION COMPLEX TECHNOLOGY CENTER
+UID-263,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Entity,UID-263 - 6146,25043,IRAN ZINC MINES DEVELOPMENT COMPANY,IRAN ZINC M DEVELOPMENT COMPANY
+UID-263,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Entity,UID-263 - 6578,25855,UNIVERSAL SHIPPING AND TRANSPORTATION LIMITED,UNIVERSAL SHIPPING AND T LIMITED
+UID-263,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Entity,UID-263 - 1715,11166,AL-RA'Y SATELLITE TELEVISION CHANNEL,AL-RA'Y SATELLITE TELEV CHANNEL
+UID-263,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Entity,UID-263 - 7533,28296,REPUTABLE TRADING SOURCE LLC,REPUTABLE T SOURCE LLC
+UID-263,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Entity,UID-263 - 6142,25039,TECHNOTAR ENGINEERING COMPANY,TECHNOTAR ENGIN COMPANY
+UID-264,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Individual,UID-264 - 1411,10291,"CALVO LOMBANA, Gabriel Andres","CALVO LOMBANA, GA ANDRES"
+UID-264,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Individual,UID-264 - 1249,9770,"YARMOSHINA, Lidziya Mihaulauna","YARMOSHINA, LID MIHAULAUNA"
+UID-264,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Individual,UID-264 - 9582,35558,"BELYKH, Irina Viktorovna","BELYKH, IR VIKTOROVNA"
+UID-264,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Individual,UID-264 - 658,7886,"AL-UBAIDI, Yahia Abdallah","AL-UBAIDI, YA ABDALLAH"
+UID-264,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Individual,UID-264 - 4201,18848,"KIM, Kwang Hyok","KIM, KWANG H"
+UID-264,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Individual,UID-264 - 6696,26085,"ALHARBI, Thaar Ghaleb T.","ALHARBI, TH GHALEB T."
+UID-264,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Individual,UID-264 - 2353,12528,"AVENDANO OJEDA, Hector Manuel","AVENDANO OJEDA, HE MANUEL"
+UID-264,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Individual,UID-264 - 3513,16648,"KONSTANTINOV, Vladimir Andreyevich","KONSTANTINOV, VL ANDREYEVICH"
+UID-264,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Individual,UID-264 - 5225,22258,"DARWISH, Samir Sakhir","DARWISH, SA SAKHIR"
+UID-264,Names where name parts are Modified,Truncation,> 2 Letter Truncation in a middle name part,Individual,UID-264 - 8277,30687,"DENIZ, Mustafa Alper","DENIZ, MUS ALPER"
+UID-266,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Entity,UID-266 - 6567,25844,ATLANTIC SHIPPING & TRANS,ATLANTIC SHIPPING & T
+UID-266,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Entity,UID-266 - 5315,22688,RAYAN ROSHD AFZAR COMPANY,RAYAN ROSHD AFZAR COMP
+UID-266,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Entity,UID-266 - 6607,25900,MOMTAZ ELECTRIC,MOMTAZ ELEC
+UID-266,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Entity,UID-266 - 9166,34766,AKTSIONERNOE OBSHCHESTVO SOVKOMBANK STRAKHOVANIE,AKTSIONERNOE OBSHCHESTVO SOVKOMBANK ST
+UID-266,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Entity,UID-266 - 7698,28703,RUSSIAN IMPERIAL MOVEMENT,RUSSIAN IMPERIAL MOV
+UID-266,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Entity,UID-266 - 9095,34636,VYDAYUSHCHIESYA KREDITY MICROCREDIT COMPANY LIMITED LIABILITY COMPANY,VYDAYUSHCHIESYA KREDITY MICROCREDIT COM LIMITED LIABILITY COMPANY
+UID-266,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Entity,UID-266 - 6938,26590,BANCO DE VENEZUELA SA BANCO UNIVERSAL,BANCO DE VENEZUELA SA BANCO UNI
+UID-266,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Entity,UID-266 - 1162,9527,KOREA RYONHA MACHINERY JOINT VENTURE CORPORATION,KOREA RYONHA MACHINERY JOINT VENTURE CORP
+UID-266,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Entity,UID-266 - 6588,25880,GHADIR ELECTRICITY AND ENERGY INVESTMENT,GHADIR ELECTRICITY AND ENERGY IN
+UID-266,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Entity,UID-266 - 6592,25884,GHADIR MANAGEMENT AND COMMERCIAL SERVICES,GHADIR MANAGEMENT AND COMMERCIAL SERV
+UID-267,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Individual,UID-267 - 9676,35652,"KOROBOVA, Olga Vladimirovna","KOROBOVA, OLGA VLADI"
+UID-267,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Individual,UID-267 - 9599,35575,"VALEEV, Ernest Abdulovich","VALEEV, ERNEST ABD"
+UID-267,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Individual,UID-267 - 1005,8883,"AHMAD, Muhammad Yunis","AHMAD, MUHAMMAD Y"
+UID-267,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Individual,UID-267 - 4943,21913,"RASHID, Badr","RASHID, B"
+UID-267,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Individual,UID-267 - 6876,26524,"PERDOMO MATA, Adrian Antonio","PERDOMO MATA, ADRIAN ANTO"
+UID-267,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Individual,UID-267 - 302,7214,"PALACIOS ALDAY, Gorka","PALACIOS ALDAY, G"
+UID-267,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Individual,UID-267 - 8866,33596,"MEHRABI, Abdollah","MEHRABI, ABDO"
+UID-267,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Individual,UID-267 - 733,8119,"MARIJANOVIC, Milovan","MARIJANOVIC, M"
+UID-267,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Individual,UID-267 - 2006,11746,"AW-MOHAMED, Ahmed Abdi","AW-MOHAMED, AHMED A"
+UID-267,Names where name parts are Modified,Truncation,> 2 Letter Truncation in the end,Individual,UID-267 - 2124,11933,"IBARRA YEPIS, Prisciliano","IBARRA YEPIS, PRIS"
+UID-269,Names where name parts are Modified,Truncation,> 2 Letters Truncation in the front,Entity,UID-269 - 39,1316,"LEVERAGE, S.A.",", S.A."
+UID-269,Names where name parts are Modified,Truncation,> 2 Letters Truncation in the front,Entity,UID-269 - 7391,27967,NEJAAT SOCIAL WELFARE ORGANIZATION,AAT SOCIAL WELFARE ORGANIZATION
+UID-269,Names where name parts are Modified,Truncation,> 2 Letters Truncation in the front,Entity,UID-269 - 7822,29265,INTERSECTION LLC,N LLC
+UID-269,Names where name parts are Modified,Truncation,> 2 Letters Truncation in the front,Entity,UID-269 - 8978,34078,KEEN WELL INTERNATIONAL LIMITED,N WELL INTERNATIONAL LIMITED
+UID-269,Names where name parts are Modified,Truncation,> 2 Letters Truncation in the front,Entity,UID-269 - 6637,25932,SHARQ CEMENT INDUSTRIAL LIMESTONE,Q CEMENT INDUSTRIAL LIMESTONE
+UID-269,Names where name parts are Modified,Truncation,> 2 Letters Truncation in the front,Entity,UID-269 - 3030,15605,POUYA CONTROL,A CONTROL
+UID-269,Names where name parts are Modified,Truncation,> 2 Letters Truncation in the front,Entity,UID-269 - 8626,32351,SYRIAN MILITARY INTELLIGENCE BRANCH 216,N MILITARY INTELLIGENCE BRANCH 216
+UID-269,Names where name parts are Modified,Truncation,> 2 Letters Truncation in the front,Entity,UID-269 - 6615,25908,SHIRAZ PARS FARAYAND OIL REFINERY,AZ PARS FARAYAND OIL REFINERY
+UID-269,Names where name parts are Modified,Truncation,> 2 Letters Truncation in the front,Entity,UID-269 - 7682,28687,MIDDLE EAST SAMAN CHEMICAL COMPANY,LE EAST SAMAN CHEMICAL COMPANY
+UID-269,Names where name parts are Modified,Truncation,> 2 Letters Truncation in the front,Entity,UID-269 - 4744,21077,"CONSORCIO LUNALO, S.A. DE C.V.","CIO LUNALO, S.A. DE C.V."
+UID-271,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Entity,UID-271 - 2972,15492,WAQFIYA RI'AYA AL-USRA AL-FILISTINYA WA AL-LUBNANYA,WAQFIYA RI'AYA AL-USRA AL-FILISTINY WA AL-LUBNANYA
+UID-271,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Entity,UID-271 - 6614,25907,PARS PAIDAR SANAT NOVIN,PARS PAIDAR SANA NOVIN
+UID-271,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Entity,UID-271 - 1845,11419,PERU GLOBAL TOURS S.A.C.,PERU GLOBAL TOUR S.A.C.
+UID-271,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Entity,UID-271 - 833,8256,"INTERNATIONAL PACIFIC TRADING, INC.",INTERNATIONAL PACIFIC TRADIN INC.
+UID-271,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Entity,UID-271 - 6105,24812,33RD LIGHT INFANTRY DIVISION OF THE BURMESE ARMY,33RD LIGHT INFANTRY DIVISION O THE BURMESE ARMY
+UID-271,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Entity,UID-271 - 8287,30751,KHAZAR STEEL CO.,KHAZAR STEE CO.
+UID-271,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Entity,UID-271 - 6508,25659,NOVIN PARS MINERAL EXPLORATION AND MINING ENGINEERING COMPANY,NOVIN PARS MINERAL EXPLORATION AN MINING ENGINEERING COMPANY
+UID-271,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Entity,UID-271 - 9803,35866,LIMITED LIABILITY COMPANY CENTER OF PURCHASES AND LOGISTICS OF THE HELICOPTER INDUSTRY,LIMITED LIABILITY COMPANY CENTER OF PURCHASES AN LOGISTICS OF THE HELICOPTER INDUSTRY
+UID-271,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Entity,UID-271 - 6337,25430,IRISL MULTIMODAL TRANSPORT CO.,IRISL MULTIMODAL TRANSPOR CO.
+UID-271,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Entity,UID-271 - 9357,35279,"TRANSPORTES REFRIGERADOS PANDAS TRUCKING, SOCIEDAD ANONIMA DE CAPITAL VARIABLE","TRANSPORTES REFRIGERADOS PANDAS TRUCKING, SOCIEDA ANONIMA DE CAPITAL VARIABLE"
+UID-272,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Individual,UID-272 - 5355,22807,"LUGO ARMAS, Bladimir Humberto","LUGO ARMAS, BLADIMI HUMBERTO"
+UID-272,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Individual,UID-272 - 1060,9340,"WONG, Moon Chi","WONG, MOO CHI"
+UID-272,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Individual,UID-272 - 5678,23550,"MALGIN, Pavel Vladimirovich","MALGIN, PAVE VLADIMIROVICH"
+UID-272,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Individual,UID-272 - 2706,13423,"BADR AL DIN, Mustafa",BADR AL DI MUSTAFA
+UID-272,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Individual,UID-272 - 8925,33954,"KHAN, Mohammad Anwar Latif","KHAN, MOHAMMAD ANWA LATIF"
+UID-272,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Individual,UID-272 - 5416,23016,"KIM, Kyong Il","KIM, KYON IL"
+UID-272,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Individual,UID-272 - 10783,38577,"ZOLOTOV, Roman Viktorovich","ZOLOTOV, ROMA VIKTOROVICH"
+UID-272,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Individual,UID-272 - 9702,35678,"MARDANSHIN, Rafael Mirkhatimovich","MARDANSHIN, RAFAE MIRKHATIMOVICH"
+UID-272,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Individual,UID-272 - 1666,10905,"KECHIK, Mahmood Awang","KECHIK, MAHMOO AWANG"
+UID-272,Names where name parts are Modified,Truncation,1 Letter Truncation in a middle name part,Individual,UID-272 - 10091,36766,"BAZILEVSKY, Andrey Alexandrovich","BAZILEVSKY, ANDRE ALEXANDROVICH"
+UID-274,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Entity,UID-274 - 10849,39143,FEDERAL STATE FINANCED INSTITUTION OF SCIENCE PHYSICAL HIGHER EDUCATION INSTITUTION NAMED AFTER P. N. LEBEDEVA OF THE RUSSIAN FEDERATION ACADEMY SCIENCES,FEDERAL STATE FINANCED INSTITUTION OF SCIENCE PHYSICAL HIGHER EDUCATION INSTITUTION NAMED AFTER P. N. LEBEDEVA OF THE RUSSIAN FEDERATION ACADEMY SCIENCE
+UID-274,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Entity,UID-274 - 7633,28527,ATLAS HOLDING,ATLAS HOLDIN
+UID-274,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Entity,UID-274 - 842,8266,CASA APOLLO,CASA APOLL
+UID-274,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Entity,UID-274 - 6064,24679,SEYMEH INGENIERIA SRL,SEYMEH INGENIERIA SR
+UID-274,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Entity,UID-274 - 6592,25884,GHADIR MANAGEMENT AND COMMERCIAL SERVICES,GHADIR MANAGEMENT AND COMMERCIAL SERVICE
+UID-274,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Entity,UID-274 - 4170,18729,VTB CAPITAL HOLDINGS CLOSED JOINT STOCK COMPANY,VTB CAPITAL HOLDINGS CLOSED JOINT STOCK COMPAN
+UID-274,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Entity,UID-274 - 9821,35884,JOINT STOCK COMPANY SALUTE,JOINT STOCK COMPANY SALUT
+UID-274,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Entity,UID-274 - 9827,35890,JOINT STOCK COMPANY REDUCTOR - PM,JOINT STOCK COMPANY REDUCTOR - P
+UID-274,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Entity,UID-274 - 1514,10488,KHATAM OL ANBIA GHARARGAH SAZANDEGI NOOH,KHATAM OL ANBIA GHARARGAH SAZANDEGI NOO
+UID-274,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Entity,UID-274 - 6575,25852,SPEED TRANSPORTATION LIMITED,SPEED TRANSPORTATION LIMITE
+UID-275,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Individual,UID-275 - 608,7836,"JARRAYA, Mounir Ben Habib","JARRAYA, MOUNIR BEN HABI"
+UID-275,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Individual,UID-275 - 322,7256,"KISHK, Samir","KISHK, SAMI"
+UID-275,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Individual,UID-275 - 1575,10623,"CAZAREZ PEREZ, Maria Tiburcia","CAZAREZ PEREZ, MARIA TIBURCI"
+UID-275,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Individual,UID-275 - 8680,32628,"LOPEZ MIERA, Alvaro","LOPEZ MIERA, ALVAR"
+UID-275,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Individual,UID-275 - 151,6710,"HEATH, Noel Timothy","HEATH, NOEL TIMOTH"
+UID-275,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Individual,UID-275 - 7955,29825,"JABARI, Abolfazl","JABARI, ABOLFAZ"
+UID-275,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Individual,UID-275 - 2233,12183,"GARCIA SANCHEZ, Ricardo","GARCIA SANCHEZ, RICARD"
+UID-275,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Individual,UID-275 - 10826,38837,"ZHIDKOV, Viktor Olegovich","ZHIDKOV, VIKTOR OLEGOVIC"
+UID-275,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Individual,UID-275 - 10098,36773,"BEREZKIN, Sergei Vladimirovich","BEREZKIN, SERGEI VLADIMIROVIC"
+UID-275,Names where name parts are Modified,Truncation,1 Letter Truncation in the end,Individual,UID-275 - 10208,36883,"VALYAEV, Yuri Konstantinovich","VALYAEV, YURI KONSTANTINOVIC"
+UID-276,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Entity,UID-276 - 6933,26585,"SMILEWALLET, LLC","MILEWALLET, LLC"
+UID-276,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Entity,UID-276 - 9086,34542,LIMITED LIABILITY COMPANY MARKET FUND ADMINISTRATION,IMITED LIABILITY COMPANY MARKET FUND ADMINISTRATION
+UID-276,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Entity,UID-276 - 4355,19276,SPECTRUM INVESTMENT GROUP HOLDING SAL,PECTRUM INVESTMENT GROUP HOLDING SAL
+UID-276,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Entity,UID-276 - 1487,10445,WORLD LINE SYSTEM S.A.,ORLD LINE SYSTEM S.A.
+UID-276,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Entity,UID-276 - 3185,15852,ANSAR AL-DINE,NSAR AL-DINE
+UID-276,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Entity,UID-276 - 6771,26203,RIM GROUP INVESTMENTS II CORP.,IM GROUP INVESTMENTS II CORP.
+UID-276,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Entity,UID-276 - 7785,29107,MEROE GOLD CO. LTD.,EROE GOLD CO. LTD.
+UID-276,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Entity,UID-276 - 964,8738,GREEN ISLAND S.A.,REEN ISLAND S.A.
+UID-276,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Entity,UID-276 - 2295,12376,FUNDACION PARA EL BIENESTAR Y EL PORVENIR,UNDACION PARA EL BIENESTAR Y EL PORVENIR
+UID-276,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Entity,UID-276 - 7528,28291,KHOUZESTAN STEEL COMPANY,HOUZESTAN STEEL COMPANY
+UID-277,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Individual,UID-277 - 976,8800,"LABRA AVILES, Jesus Abraham","ABRA AVILES, JESUS ABRAHAM"
+UID-277,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Individual,UID-277 - 3466,16501,"NAVARRO CERRANO, Victor Ramon","AVARRO CERRANO, VICTOR RAMON"
+UID-277,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Individual,UID-277 - 1744,11268,"CHOU, Hsien Cheng","HOU, HSIEN CHENG"
+UID-277,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Individual,UID-277 - 7162,27028,"NAJAFI, Mehdi","AJAFI, MEHDI"
+UID-277,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Individual,UID-277 - 7122,26952,"VELAYATI, Ali Akbar","ELAYATI, ALI AKBAR"
+UID-277,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Individual,UID-277 - 10428,37367,"SAVITSKAYA, Svetlana Evgenievna","AVITSKAYA, SVETLANA EVGENIEVNA"
+UID-277,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Individual,UID-277 - 9750,35748,"LUKASHENKA, Halina Radzivonawna","UKASHENKA, HALINA RADZIVONAWNA"
+UID-277,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Individual,UID-277 - 7857,29442,"APIKIAN, Philipp Paul Vartan","PIKIAN, PHILIPP PAUL VARTAN"
+UID-277,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Individual,UID-277 - 4081,18428,"SOUSSOU, Habib","OUSSOU, HABIB"
+UID-277,Names where name parts are Modified,Truncation,1 Letters Truncation in the front,Individual,UID-277 - 2090,11892,"SANCHEZ GONZALEZ, Arnulfo","ANCHEZ GONZALEZ, ARNULFO"
+UID-279,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Entity,UID-279 - 2808,15097,ELECTRONIC COMPONENTS INDUSTRIES CO,ELECTRONIC COMPONEN INDUSTRIES CO
+UID-279,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Entity,UID-279 - 5900,24204,"LADOGA MENEDZHMENT, OOO",LADOGA MENEDZHME OOO
+UID-279,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Entity,UID-279 - 6544,25799,SHIPPING WELFARE SERVICES INSTITUTE,SHIPPING WELFARE SERVIC INSTITUTE
+UID-279,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Entity,UID-279 - 4749,21084,"CORPORATIVO FEARFI, S.A. DE C.V.",CORPORATIVO FEAR S.A. DE C.V.
+UID-279,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Entity,UID-279 - 313,7227,BABBAR KHALSA INTERNATIONAL,BABBAR KHAL INTERNATIONAL
+UID-279,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Entity,UID-279 - 4763,21106,"NOCTURNUM INC, S. DE R.L. DE C.V.",NOCTURNUM I S. DE R.L. DE C.V.
+UID-279,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Entity,UID-279 - 3692,17019,DONBASS PEOPLE'S MILITIA,DONBASS PEOPL MILITIA
+UID-279,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Entity,UID-279 - 7762,29058,CASTLE HOLDING GMBH,CASTLE HOLDI GMBH
+UID-279,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Entity,UID-279 - 5768,23713,KOREA SAMMA SHPG CO,KOREA SAM SHPG CO
+UID-279,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Entity,UID-279 - 6523,25688,WT MARINE PTE LTD,WT MARINE P LTD
+UID-280,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Individual,UID-280 - 9615,35591,"GEKKIEV, Zaur Dalkhatovich","GEKKIEV, ZA DALKHATOVICH"
+UID-280,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Individual,UID-280 - 4108,18588,"AL-HARBI, Nasir Muhammad 'Awad al-Ghidani","AL-HARBI, NASIR MUHAMM 'AWAD AL-GHIDANI"
+UID-280,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Individual,UID-280 - 363,7319,"IZTUETA BARANDICA, Enrique",IZTUETA BARANDI ENRIQUE
+UID-280,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Individual,UID-280 - 9465,35441,"PANESH, Kaplan Mugdinovich","PANESH, KAPL MUGDINOVICH"
+UID-280,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Individual,UID-280 - 3524,16665,"DZHABAROV, Vladimir Mikhailovich","DZHABAROV, VLADIM MIKHAILOVICH"
+UID-280,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Individual,UID-280 - 9337,35233,"LAVROV, Sergei Viktorovich","LAVROV, SERG VIKTOROVICH"
+UID-280,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Individual,UID-280 - 9011,34139,"VIEIRA DIAS, Manuel Helder","VIEIRA DIAS, MANU HELDER"
+UID-280,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Individual,UID-280 - 10040,36462,"KADYROVA, Ayshat Ramzanovna","KADYROVA, AYSH RAMZANOVNA"
+UID-280,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Individual,UID-280 - 9377,35315,"SHUVALOV, Igor Ivanovich","SHUVALOV, IG IVANOVICH"
+UID-280,Names where name parts are Modified,Truncation,2 Letter Truncation in a middle name part,Individual,UID-280 - 10377,37316,"DMITRIEVA, Oksana Genrikhovna","DMITRIEVA, OKSA GENRIKHOVNA"
+UID-282,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Entity,UID-282 - 6492,25639,EXPORT DEVELOPMENT BANK OF IRAN,EXPORT DEVELOPMENT BANK OF IR
+UID-282,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Entity,UID-282 - 8817,33280,YUMMY BE CHARM TRADING HK LIMITED,YUMMY BE CHARM TRADING HK LIMIT
+UID-282,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Entity,UID-282 - 6912,26561,SHEIKH BAHA'I SCIENCE AND TECHNOLOGY RESEARCH CENTER,SHEIKH BAHA'I SCIENCE AND TECHNOLOGY RESEARCH CENT
+UID-282,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Entity,UID-282 - 4692,20957,SYRIAN ARAB REPUBLICAN GUARD,SYRIAN ARAB REPUBLICAN GUA
+UID-282,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Entity,UID-282 - 6906,26555,SHAHID KAZEMI GROUP,SHAHID KAZEMI GRO
+UID-282,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Entity,UID-282 - 1938,11598,GENERAL BUREAU OF ATOMIC ENERGY,GENERAL BUREAU OF ATOMIC ENER
+UID-282,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Entity,UID-282 - 9084,34539,JOINT STOCK COMPANY SAROVBUSINESSBANK,JOINT STOCK COMPANY SAROVBUSINESSBA
+UID-282,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Entity,UID-282 - 3029,15603,FOREIGN TRADE BANK OF THE DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA,FOREIGN TRADE BANK OF THE DEMOCRATIC PEOPLE'S REPUBLIC OF KOR
+UID-282,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Entity,UID-282 - 1460,10391,ISLAMIC REVOLUTIONARY GUARD CORPS,ISLAMIC REVOLUTIONARY GUARD COR
+UID-282,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Entity,UID-282 - 10624,37804,JOINT STOCK COMPANY SCIENTIFIC AND RESEARCH INSTITUTE OF ELECTRONIC ENGINEERING MATERIALS,JOINT STOCK COMPANY SCIENTIFIC AND RESEARCH INSTITUTE OF ELECTRONIC ENGINEERING MATERIA
+UID-283,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Individual,UID-283 - 9249,35017,"GRININ, Yevgeniy Aleksandrovich","GRININ, YEVGENIY ALEKSANDROVI"
+UID-283,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Individual,UID-283 - 776,8191,"AL-TIKRITI, Noor Barzan Ibrahim Hasan","AL-TIKRITI, NOOR BARZAN IBRAHIM HAS"
+UID-283,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Individual,UID-283 - 8818,33281,"AL-BANAI, Sulaiman","AL-BANAI, SULAIM"
+UID-283,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Individual,UID-283 - 3527,16668,"ZHELEZNYAK, Sergei Vladimirovich","ZHELEZNYAK, SERGEI VLADIMIROVI"
+UID-283,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Individual,UID-283 - 1127,9432,"CHIWESHE, George","CHIWESHE, GEOR"
+UID-283,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Individual,UID-283 - 8023,30062,"KULYK, Konstantin","KULYK, KONSTANT"
+UID-283,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Individual,UID-283 - 5683,23558,"OVSYANNIKOV, Dmitry Vladimirovich","OVSYANNIKOV, DMITRY VLADIMIROVI"
+UID-283,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Individual,UID-283 - 9594,35570,"BULAVINOV, Vadim Yevgenyevich","BULAVINOV, VADIM YEVGENYEVI"
+UID-283,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Individual,UID-283 - 8469,31772,"SWE, Khin Maung","SWE, KHIN MAU"
+UID-283,Names where name parts are Modified,Truncation,2 Letter Truncation in the end,Individual,UID-283 - 686,7928,"SYAWAL, Yassin","SYAWAL, YASS"
+UID-284,Names where name parts are Modified,Truncation,2 Letters Truncation in the front,Entity,UID-284 - 6028,24566,"DALIAN SUN MOON STAR INTERNATIONAL LOGISTICS TRADING CO., LTD","LIAN SUN MOON STAR INTERNATIONAL LOGISTICS TRADING CO., LTD"
+UID-284,Names where name parts are Modified,Truncation,2 Letters Truncation in the front,Entity,UID-284 - 4220,18954,YONGJIN SHIP MANAGEMENT COMPANY LIMITED,NGJIN SHIP MANAGEMENT COMPANY LIMITED
+UID-284,Names where name parts are Modified,Truncation,2 Letters Truncation in the front,Entity,UID-284 - 4017,18250,MORGAN ADDITIVES MANUFACTURING CO.,RGAN ADDITIVES MANUFACTURING CO.
+UID-284,Names where name parts are Modified,Truncation,2 Letters Truncation in the front,Entity,UID-284 - 8168,30414,BEH TAM RAVANKAR,H TAM RAVANKAR
+UID-284,Names where name parts are Modified,Truncation,2 Letters Truncation in the front,Entity,UID-284 - 7763,29059,ART HOUSE GMBH,T HOUSE GMBH
+UID-284,Names where name parts are Modified,Truncation,2 Letters Truncation in the front,Entity,UID-284 - 27,735,EMPRESA CUBANA DE AVIACION,PRESA CUBANA DE AVIACION
+UID-284,Names where name parts are Modified,Truncation,2 Letters Truncation in the front,Entity,UID-284 - 6386,25480,LONDON IRINVEST SHIP COMPANY,NDON IRINVEST SHIP COMPANY
+UID-284,Names where name parts are Modified,Truncation,2 Letters Truncation in the front,Entity,UID-284 - 9161,34761,SOVKOM FAKTORING,VKOM FAKTORING
+UID-284,Names where name parts are Modified,Truncation,2 Letters Truncation in the front,Entity,UID-284 - 9804,35867,JOINT STOCK COMPANY AZOVSKI OPTIKO MECHANICHESKY ZAVOD,INT STOCK COMPANY AZOVSKI OPTIKO MECHANICHESKY ZAVOD
+UID-284,Names where name parts are Modified,Truncation,2 Letters Truncation in the front,Entity,UID-284 - 8132,30377,SHISHEH VA GAS INDUSTRIES GROUP,ISHEH VA GAS INDUSTRIES GROUP
+UID-286,Names where name parts are Modified,Truncation,Very Short Name,Entity,UID-286 - 5,622,CUBATABACO,CUBATABAC
+UID-286,Names where name parts are Modified,Truncation,Very Short Name,Entity,UID-286 - 73,15547,PEYKASA,PEYKAS
+UID-286,Names where name parts are Modified,Truncation,Very Short Name,Entity,UID-286 - 76,15585,M23,M2
+UID-286,Names where name parts are Modified,Truncation,Very Short Name,Entity,UID-286 - 40,10761,AL-SHABAAB,AL-SHABAA
+UID-286,Names where name parts are Modified,Truncation,Very Short Name,Entity,UID-286 - 7,1241,"KAVE, S.A.","KAVE, S.A"
+UID-286,Names where name parts are Modified,Truncation,Very Short Name,Entity,UID-286 - 174,31451,NEWSFRONT,NEWSFRON
+UID-286,Names where name parts are Modified,Truncation,Very Short Name,Entity,UID-286 - 167,30524,MKSOFTTECH,MKSOFTTEC
+UID-286,Names where name parts are Modified,Truncation,Very Short Name,Entity,UID-286 - 128,23785,KOTI CORP,KOTI COR
+UID-286,Names where name parts are Modified,Truncation,Very Short Name,Entity,UID-286 - 196,35308,ALAXY,ALAX
+UID-286,Names where name parts are Modified,Truncation,Very Short Name,Entity,UID-286 - 114,21105,SOLID LTD,SOLID LT
+UID-287,Names where name parts are Modified,Truncation,Very Short Name,Individual,UID-287 - 31,17624,"KIM, Kyu",KIM KYU
+UID-287,Names where name parts are Modified,Truncation,Very Short Name,Individual,UID-287 - 60,23649,"SU, Guiqin","SU, GUIQI"
+UID-287,Names where name parts are Modified,Truncation,Very Short Name,Individual,UID-287 - 40,20941,"WANUS, Ali",WANUS ALI
+UID-287,Names where name parts are Modified,Truncation,Very Short Name,Individual,UID-287 - 101,32476,"HE, Jing",HE JING
+UID-287,Names where name parts are Modified,Truncation,Very Short Name,Individual,UID-287 - 14,11353,"HAQ, Abdul",HAQ ABDUL
+UID-287,Names where name parts are Modified,Truncation,Very Short Name,Individual,UID-287 - 11,11282,"YUN, Cheng",YUN CHENG
+UID-287,Names where name parts are Modified,Truncation,Very Short Name,Individual,UID-287 - 59,23647,"WEI, Zhao",WEI ZHAO
+UID-287,Names where name parts are Modified,Truncation,Very Short Name,Individual,UID-287 - 18,12797,"RABI, Fazl","RABI, FAZ"
+UID-287,Names where name parts are Modified,Truncation,Very Short Name,Individual,UID-287 - 16,12578,"OK, Sabri",OK SABRI
+UID-287,Names where name parts are Modified,Truncation,Very Short Name,Individual,UID-287 - 10,11281,"CHA, Ta Fa",CHA TA FA
+UID-288,Names where name parts are Modified,Typos,> 2 typos different name parts,Entity,UID-288 - 7435,28045,"TRY PHEAP DRY PORT CO., LTD.","TRK PHEAP DRI PORG CO., LTR."
+UID-288,Names where name parts are Modified,Typos,> 2 typos different name parts,Entity,UID-288 - 7982,29853,ATLAS SHIP MANAGEMENT,ATEAS SXIP MAOAGEMENT
+UID-288,Names where name parts are Modified,Typos,> 2 typos different name parts,Entity,UID-288 - 2511,12895,"IMPORTADORA SILVANIA, C.A.","NMPORTADORA SILVANEA, C.L."
+UID-288,Names where name parts are Modified,Typos,> 2 typos different name parts,Entity,UID-288 - 8421,31372,ISLAMIC STATE OF IRAQ AND SYRIA - MOZAMBIQUE,ISLAVIC STYTE UF IRMQ ANH WYRIA - MOZAMBIQUE
+UID-288,Names where name parts are Modified,Typos,> 2 typos different name parts,Entity,UID-288 - 3710,17044,STARS COMMUNICATIONS OFFSHORE SAL,TTARS CJMMUNICATIONS OFFSHORE SAY
+UID-288,Names where name parts are Modified,Typos,> 2 typos different name parts,Entity,UID-288 - 10531,37659,INTERREGIONAL SOCIAL ORGANIZATION UNION OF DONBAS VOLUNTEERS,INTERREGIONAL SKCIAL ORGANIZATION UNION WF DONUAS VOLUNTEERS
+UID-288,Names where name parts are Modified,Typos,> 2 typos different name parts,Entity,UID-288 - 3474,16524,TIVA SANAT GROUP,TIVJ HANAT GROUI
+UID-288,Names where name parts are Modified,Typos,> 2 typos different name parts,Entity,UID-288 - 10063,36517,AKTSIONERNOE OBSHCHESTVO NATSIONALNAYA INZHINIRINGOVAYA KORPORATSIYA,AKTSIONERNCE OBSHCHESTVO NATSIONALNADA IYZHINIRINGOVAYA KORPORATSIYA
+UID-288,Names where name parts are Modified,Typos,> 2 typos different name parts,Entity,UID-288 - 10859,39161,JOINT STOCK COMPANY RESEARCH AND DEVELOPMENT ENTERPRISE SAPFIR,JOIYT STOCK JOMPANY RESEARCH AND DEVELOPMENT ENTERPRISE SKPFIR
+UID-288,Names where name parts are Modified,Typos,> 2 typos different name parts,Entity,UID-288 - 4172,18731,LIMITED LIABILITY COMPANY VTB DC,LIMIIED LIABILITY COMPANY UTB PC
+UID-289,Names where name parts are Modified,Typos,> 2 typos different name parts,Individual,UID-289 - 3531,16672,"BUSHMIN, Evgeni Viktorovich","VUSHMIN, MVGENI VIKTOROVILH"
+UID-289,Names where name parts are Modified,Typos,> 2 typos different name parts,Individual,UID-289 - 3634,16861,"GAGLOEV, Mikhail Georgievich","GAGLOBV, MIKHAIT GEORGIEVUCH"
+UID-289,Names where name parts are Modified,Typos,> 2 typos different name parts,Individual,UID-289 - 9628,35604,"DANCHIKOVA, Galina Innokentyevna","DTNCHIKOVA, GALWNA INNOKEWTYEVNA"
+UID-289,Names where name parts are Modified,Typos,> 2 typos different name parts,Individual,UID-289 - 666,7894,"MAHDI, Adil Abdallah","CAHDI, AXIL ABDALLAS"
+UID-289,Names where name parts are Modified,Typos,> 2 typos different name parts,Individual,UID-289 - 5872,23984,"CONTRERAS, Willian Antonio","CONTKERAS, WPLLIAN ANTORIO"
+UID-289,Names where name parts are Modified,Typos,> 2 typos different name parts,Individual,UID-289 - 1990,11706,"HUERTA RAMOS, Manuel","HUWRTA RDMOS, MAFUEL"
+UID-289,Names where name parts are Modified,Typos,> 2 typos different name parts,Individual,UID-289 - 656,7884,"AL-NAJIM, Samir abd al-Aziz","AL-NVJIM, SAMIR KBD AL-DZIZ"
+UID-289,Names where name parts are Modified,Typos,> 2 typos different name parts,Individual,UID-289 - 8996,34109,"PULIDO ORTIZ, Bayardo de Jesus","PULHDO ORTIZ, BAYARCO DU JXSUS"
+UID-289,Names where name parts are Modified,Typos,> 2 typos different name parts,Individual,UID-289 - 6090,24757,"HASSAN, Hameed ul","HAZSAN, HAZEED NL"
+UID-289,Names where name parts are Modified,Typos,> 2 typos different name parts,Individual,UID-289 - 2179,12025,"MEJIA GUTIERREZ, Ignacio","MVJIA GUTIERREM, IGNACIG"
+UID-290,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Entity,UID-290 - 1385,10257,CENTRO DE BELLEZA SHARY VERGARA,CENTRO DE BELLTEU SHARY VERGARA
+UID-290,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Entity,UID-290 - 3100,15697,SYNERGY GENERAL TRADING FZE,SYNERGY SUDUFAL TRADING FZE
+UID-290,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Entity,UID-290 - 9313,35156,AO NII VEKTOR,AO NII VKDHHR
+UID-290,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Entity,UID-290 - 2243,12194,CLUB DEPORTIVO OJOS NEGROS A.C.,CBYC DEPORTIVO OJOS NEGROS A.C.
+UID-290,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Entity,UID-290 - 10721,38097,JOINT STOCK COMPANY PROMISING INDUSTRIAL AND INFRASTRUCTURE TECHNOLOGIES,JOINT STOCK COMPANY PROMISING INDUSTRIAL AND INFRASTRUCTURE TECHNOGHDIES
+UID-290,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Entity,UID-290 - 8579,32117,GAMES UNLIMITED OOD,GAMES UNLIMIBCZ OOD
+UID-290,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Entity,UID-290 - 7,536,CIMEX IBERICA,CCRQX IBERICA
+UID-290,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Entity,UID-290 - 9413,35352,IRKUTSK AVIATION PLANT,IRKUTSK AVIATION OVSNT
+UID-290,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Entity,UID-290 - 1786,11310,TET KHAM (S) PTE. LTD.,TET LGJQ (S) PTE. LTD.
+UID-290,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Entity,UID-290 - 10532,37660,JOINT STOCK COMPANY RYAZAN STATE INSTRUMENT MAKING ENTERPRISE,JOINT STXOO COMPANY RYAZAN STATE INSTRUMENT MAKING ENTERPRISE
+UID-291,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Individual,UID-291 - 5643,23478,"PAK, Tong Sok","PAK, OZXG SOK"
+UID-291,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Individual,UID-291 - 641,7869,"AL-TAI, Sultan Hashim Ahmad","AL-TAI, SULLGH HASHIM AHMAD"
+UID-291,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Individual,UID-291 - 7127,26957,"SAFA, Wafiq","SAFA, WHGEQ"
+UID-291,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Individual,UID-291 - 2660,13170,"KELMENDI, Naser",KELMQEUVN NASER
+UID-291,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Individual,UID-291 - 10681,37868,"VOLOBUEV, Nikolai Anatolevich","VOLOBUEV, NIKCTCI ANATOLEVICH"
+UID-291,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Individual,UID-291 - 5701,23586,"ANTIPOV, Igor Yurievich","AJHVPOV, IGOR YURIEVICH"
+UID-291,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Individual,UID-291 - 10790,38616,"MATVIYENKO, Sergey Vladimirovich","MATVIYENKO, SERGEY VLANKGPUJIICH"
+UID-291,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Individual,UID-291 - 2379,12562,"'ABD AL-SALAM, Said Jan","'ABD AL-SALAM, SNKI JAN"
+UID-291,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Individual,UID-291 - 8565,32059,"PEEVSKI, Delyan Slavchev",PEEWXTFF DELYAN SLAVCHEV
+UID-291,Names where name parts are Modified,Typos,> 2 Typos same name part - Adjacent,Individual,UID-291 - 1508,10479,"REZAIE, Morteza",RPMOUNI MORTEZA
+UID-292,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Entity,UID-292 - 4732,21048,ZARON BIO-TECH (ASIA) LIMITED,LIQEN BIO-TECH (ASIA) LIMITED
+UID-292,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Entity,UID-292 - 6992,26672,"BIZNES-STOLITSA, OOO","WCCOLPGMBTXWTSA, OOO"
+UID-292,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Entity,UID-292 - 2332,12469,YAMEN BENIN SARL,KTIEN BENIN SARL
+UID-292,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Entity,UID-292 - 10523,37523,JOINT STOCK COMPANY MACHINE-BUILDING ENGINEERING OFFICE FAKEL NAMED AFTER AKADEMIKA P. D. GRUSHINA,KFLNT STOCK COMPANY MACHINE-BUILDING ENGINEERING OFFICE FAKEL NAMED AFTER AKADEMIKA P. D. GRUSHINA
+UID-292,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Entity,UID-292 - 2369,12552,MULTIMAT IC VE DIS TICARET PAZARLAMA LIMITED SIRKETI,WKUMEMAT IC VE DIS TICARET PAZARLAMA LIMITED SIRKETI
+UID-292,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Entity,UID-292 - 9059,34484,JAMMOUL AND AYAD FOR INDUSTRY AND TRADE,IKEUKUL AND AYAD FOR INDUSTRY AND TRADE
+UID-292,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Entity,UID-292 - 742,8129,HAVANATUR S.A.,RYSCNATUR S.A.
+UID-292,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Entity,UID-292 - 7765,29063,LUZY TECHNOLOGIES LLC,SVRY TECHNOLOGIES LLC
+UID-292,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Entity,UID-292 - 9169,34769,MINSK WHEEL TRACTOR PLANT,NMZKK WHEEL TRACTOR PLANT
+UID-292,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Entity,UID-292 - 7490,28167,DEBBIYE 143 SAL,XNIKIYE 143 SAL
+UID-293,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Individual,UID-293 - 5008,21978,"SUKHAYTAH, Muhammad Khayr","HCLHAYTAH, MUHAMMAD KHAYR"
+UID-293,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Individual,UID-293 - 4828,21328,"KOROBOV, Igor Valentinovich","ZQXOBOV, IGOR VALENTINOVICH"
+UID-293,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Individual,UID-293 - 10081,36756,"AKIMOV, Alexander Konstantinovich","BPHMOV, ALEXANDER KONSTANTINOVICH"
+UID-293,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Individual,UID-293 - 7547,28311,"MORALES LLOVERA, Negal Manuel","TZDKRVS LLOVERA, NEGAL MANUEL"
+UID-293,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Individual,UID-293 - 8210,30525,"AHMED, Shahzad","ZSNED, SHAHZAD"
+UID-293,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Individual,UID-293 - 8338,30888,"SIMONENKO, Anton Oleksandrovych","FUVVNENKO, ANTON OLEKSANDROVYCH"
+UID-293,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Individual,UID-293 - 2677,13366,"ESPARRAGOZA GASTELUM, Nadia Patricia","MJEARRAGOZA GASTELUM, NADIA PATRICIA"
+UID-293,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Individual,UID-293 - 134,6659,"URDINOLA GRAJALES, Ivan","YEOXWCLA GRAJALES, IVAN"
+UID-293,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Individual,UID-293 - 9940,36158,"RINCON GODOY, Angelberto","QHGBON GODOY, ANGELBERTO"
+UID-293,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at beginning",Individual,UID-293 - 3836,17295,"DAUDOV, Magomed Khozhakhmedovich","IFYITV, MAGOMED KHOZHAKHMEDOVICH"
+UID-294,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Entity,UID-294 - 50,2110,TROPIC TOURS GMBH,TROPIC TOURS GFFM
+UID-294,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Entity,UID-294 - 9086,34542,LIMITED LIABILITY COMPANY MARKET FUND ADMINISTRATION,LIMITED LIABILITY COMPANY MARKET FUND ADMINISGOKBDSF
+UID-294,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Entity,UID-294 - 3068,15652,MARINE INDUSTRIES ORGANIZATION,MARINE INDUSTRIES ORGANIZHVNJM
+UID-294,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Entity,UID-294 - 6602,25894,GHADIR PAYMAN COUNSELING ENGINEERS,GHADIR PAYMAN COUNSELING ENGINCDFE
+UID-294,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Entity,UID-294 - 38,1287,LA EMPRESA CUBANA DE FLETES,LA EMPRESA CUBANA DE FYHRJL
+UID-294,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Entity,UID-294 - 5320,22693,ISLAMIC REVOLUTIONARY GUARD CORPS RESEARCH AND SELF-SUFFICIENCY JEHAD ORGANIZATION,ISLAMIC REVOLUTIONARY GUARD CORPS RESEARCH AND SELF-SUFFICIENCY JEHAD OQUWHRRNXWKP
+UID-294,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Entity,UID-294 - 3310,16034,GHADIR INVESTMENT COMPANY,GHADIR INVESTMENT COTYUOJ
+UID-294,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Entity,UID-294 - 9217,34979,KINAHAN ORGANIZED CRIME GROUP,KINAHAN ORGANIZED CRIME GFUQY
+UID-294,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Entity,UID-294 - 10594,37769,LIMITED LIABILITY COMPANY PFMK,LIMITED LIABILITY COMPANY PLJN
+UID-294,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Entity,UID-294 - 3240,15948,ZOLAL IRAN COMPANY,ZOLAL IRAN COMRZFN
+UID-295,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Individual,UID-295 - 8851,33497,"TOGHROLJERDI, Seyyed Mehdi Hashemi","TOGHROLJERDI, SEYYED MEHDI HMWVXPS"
+UID-295,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Individual,UID-295 - 2699,13414,"PONCE FELIX, Martin Humberto","PONCE FELIX, MARTIN HUMBEING"
+UID-295,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Individual,UID-295 - 3230,15911,"KHAKI, Parviz","KHAKI, PRIMWC"
+UID-295,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Individual,UID-295 - 857,8311,"AHMAD, Rasem","AHMAD, RAWJV"
+UID-295,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Individual,UID-295 - 1796,11322,"YILMAZ, Adem","YILMAZ, AHNL"
+UID-295,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Individual,UID-295 - 4949,21919,"JAWISH, Samar Shakir","JAWISH, SAMAR SHQRHE"
+UID-295,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Individual,UID-295 - 8952,34018,"NAN, Khat Htein","NAN, KHAT HMSTP"
+UID-295,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Individual,UID-295 - 2886,15225,"GHALAWANJI, Omar Ibrahim","GHALAWANJI, OMAR IBROJOT"
+UID-295,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Individual,UID-295 - 3541,16685,"CHEMEZOV, Sergei","CHEMEZOV, SERVIU"
+UID-295,Names where name parts are Modified,Typos,"> 2 Typos same name part - Adjacent, at the end",Individual,UID-295 - 3583,16769,"BEDOYA LOPEZ, Gildardo de Jesus","BEDOYA LOPEZ, GILDARDO DE JEBRZ"
+UID-296,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Entity,UID-296 - 3511,16643,"COMERCIALIZADORA Y FRIGORIFICOS DE LA PERLA DEL PACIFICO, S.A. DE C.V.","COMERCIALIZADORA Y FRIGORTFQCFS DE LA PERLA DEL PACIFICO, S.A. DE C.V."
+UID-296,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Entity,UID-296 - 6802,26263,"PLANET 2 REACHING, INC.","PZAOEG 2 REACHING, INC."
+UID-296,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Entity,UID-296 - 7439,28049,"PAPA PETROLEUM CO., LTD.","PAPA PETRILGUO CO., LTD."
+UID-296,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Entity,UID-296 - 9240,35008,LLC SIBUGLEMET GROUP,LLC SIBURLKMJT GROUP
+UID-296,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Entity,UID-296 - 6930,26582,PARADISE MEDICAL PIONEERS COMPANY,PARMDPSX MEDICAL PIONEERS COMPANY
+UID-296,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Entity,UID-296 - 7996,29869,LOBAYE INVEST,LOBAYE IRVCSW
+UID-296,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Entity,UID-296 - 1906,11525,"CORPORACION DE CONSULTORIA, ASESORIA, PRESTACION DE SERVICIOS Y DOTACION DE ELEMENTOS Y SUMINISTROS CIA. LIMITADA","CORPORACION DE CONSULTORIA, ASESORIA, PRESTACION DE SERVICIOS Y DOTACION DE ELEMENTOS Y SUMINISTROS CIA. LRMWTUDG"
+UID-296,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Entity,UID-296 - 1633,10793,SERPROVIS S.A. SERVICIOS Y PROVISIONES,GEPPKOGIS S.A. SERVICIOS Y PROVISIONES
+UID-296,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Entity,UID-296 - 6390,25484,MOALLEM INSURANCE CO.,MOPLJEB INSURANCE CO.
+UID-296,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Entity,UID-296 - 9010,34138,BAIA CONSULTING LIMITED,BAIA CONSULTING LBMRTDD
+UID-297,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Individual,UID-297 - 6030,24583,"FIROUZABADI, Abdolhassan","FIROUZABADI, ABUOTHZSSAN"
+UID-297,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Individual,UID-297 - 4039,18313,"BULYUTIN, Andrey","BULYUTIN, ASDZEX"
+UID-297,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Individual,UID-297 - 5958,24474,"TEHRANI, Sayyed Mohammad Ali Haddadnezhad","TEHRANI, XAOYOD MOHAMMAD ALI HADDADNEZHAD"
+UID-297,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Individual,UID-297 - 449,7647,"ADEMI, Xhevat","ADEMI, XTELAI"
+UID-297,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Individual,UID-297 - 3485,16539,"HEMMATI, Alireza","SEGMMTZ, ALIREZA"
+UID-297,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Individual,UID-297 - 6527,25692,"MENDOZA GAYTAN, Gonzalo","MEMDYZF GAYTAN, GONZALO"
+UID-297,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Individual,UID-297 - 10791,38636,"BEGLOVA, Natalya Vladimirovna","BEGLOVA, NATALYA ILSDFMORKVNA"
+UID-297,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Individual,UID-297 - 4810,21263,"OLENGA, Francois",ULINSAL FRANCOIS
+UID-297,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Individual,UID-297 - 1677,10936,"DEGHDEGH, Ahmed","DEGQDKGM, AHMED"
+UID-297,Names where name parts are Modified,Typos,> 2 Typos same name part - Non-adjacent,Individual,UID-297 - 9704,35680,"METSHIN, Aidar Raisovich","METSHIN, AIDAR RAISYVKCK"
+UID-299,Names where name parts are Modified,Typos,1 Typo - any letter,Entity,UID-299 - 1724,11183,SHIRAZ ELECTRONICS INDUSTRIES,SHIRAZ ELECTRONICS SNDUSTRIES
+UID-299,Names where name parts are Modified,Typos,1 Typo - any letter,Entity,UID-299 - 5560,23285,CHARSO LIMITED,CHARSO SIMITED
+UID-299,Names where name parts are Modified,Typos,1 Typo - any letter,Entity,UID-299 - 1114,9404,GASOLINERAS SAN FERNANDO S.A. DE C.V.,GASOLINERAS SAN FERNANDP S.A. DE C.V.
+UID-299,Names where name parts are Modified,Typos,1 Typo - any letter,Entity,UID-299 - 5888,24037,BARAKAT TRANSNATIONAL CRIMINAL ORGANIZATION,BARAKAT TRANSNATIONAL CRIMINAL ORGAOIZATION
+UID-299,Names where name parts are Modified,Typos,1 Typo - any letter,Entity,UID-299 - 1293,10022,KUTRY MANAGEMENT INC.,KUTRY MANAGEMONT INC.
+UID-299,Names where name parts are Modified,Typos,1 Typo - any letter,Entity,UID-299 - 7743,29022,TELEFOCUS CONSULTANTS INC,TEPEFOCUS CONSULTANTS INC
+UID-299,Names where name parts are Modified,Typos,1 Typo - any letter,Entity,UID-299 - 3996,18159,ARENAS DE LORETO,ARONAS DE LORETO
+UID-299,Names where name parts are Modified,Typos,1 Typo - any letter,Entity,UID-299 - 5745,23666,KANSO FISHING AGENCY LIMITED,KANSO JISHING AGENCY LIMITED
+UID-299,Names where name parts are Modified,Typos,1 Typo - any letter,Entity,UID-299 - 937,8412,U.I. INTERNATIONAL,U.I. INTERNATIOIAL
+UID-299,Names where name parts are Modified,Typos,1 Typo - any letter,Entity,UID-299 - 3884,17613,"HOTEL CASA GRANDE - ULCINJ, MONTENEGRO","HOTEL CASA GRANDE - ULCINJ, MONTENEERO"
+UID-300,Names where name parts are Modified,Typos,1 Typo - any letter,Individual,UID-300 - 10814,38722,"AKHMADOVA, Aminat","AKHMADOVP, AMINAT"
+UID-300,Names where name parts are Modified,Typos,1 Typo - any letter,Individual,UID-300 - 2006,11746,"AW-MOHAMED, Ahmed Abdi","AW-MOHAMED, AHLED ABDI"
+UID-300,Names where name parts are Modified,Typos,1 Typo - any letter,Individual,UID-300 - 8114,30344,"DENG, Zhonghua","DENG, ZHOBGHUA"
+UID-300,Names where name parts are Modified,Typos,1 Typo - any letter,Individual,UID-300 - 3677,16992,"DELIMKHANOV, Adam Sultanovich","DELIMKHAIOV, ADAM SULTANOVICH"
+UID-300,Names where name parts are Modified,Typos,1 Typo - any letter,Individual,UID-300 - 6128,24957,"JADHRAN, Ibrahim","JADHRAN, IBRAHMM"
+UID-300,Names where name parts are Modified,Typos,1 Typo - any letter,Individual,UID-300 - 5518,23227,"ZHANG, Keping","ZHACG, KEPING"
+UID-300,Names where name parts are Modified,Typos,1 Typo - any letter,Individual,UID-300 - 6821,26388,"BASTARDO MENDOZA, Rafael Enrique","BASTARDO MCNDOZA, RAFAEL ENRIQUE"
+UID-300,Names where name parts are Modified,Typos,1 Typo - any letter,Individual,UID-300 - 2448,12750,"CHIZARI, Mohsen","CHIZARI, MOHNEN"
+UID-300,Names where name parts are Modified,Typos,1 Typo - any letter,Individual,UID-300 - 3362,16210,"RIOS HERNANDEZ, Juanita Del Carmen","RIOS HERNANDEZ, JUANITA DEL DARMEN"
+UID-300,Names where name parts are Modified,Typos,1 Typo - any letter,Individual,UID-300 - 2861,15193,"AHMAD AL-ABDULLAH, Subhi","AHMAP AL-ABDULLAH, SUBHI"
+UID-302,Names where name parts are Modified,Typos,1 Typo - first letter,Entity,UID-302 - 10867,39181,MULTICLET CORPORATION,XULTICLET CORPORATION
+UID-302,Names where name parts are Modified,Typos,1 Typo - first letter,Entity,UID-302 - 930,8404,T.E.G. LIMITED,G.E.G. LIMITED
+UID-302,Names where name parts are Modified,Typos,1 Typo - first letter,Entity,UID-302 - 3857,17355,MEHRAN PAPER MILL,OEHRAN PAPER MILL
+UID-302,Names where name parts are Modified,Typos,1 Typo - first letter,Entity,UID-302 - 886,8347,ASSOCIATED ENGINEERS,VSSOCIATED ENGINEERS
+UID-302,Names where name parts are Modified,Typos,1 Typo - first letter,Entity,UID-302 - 10694,37916,JAM PETROCHEMICAL COMPANY,YAM PETROCHEMICAL COMPANY
+UID-302,Names where name parts are Modified,Typos,1 Typo - first letter,Entity,UID-302 - 1314,10097,MELON LTDA.,NELON LTDA.
+UID-302,Names where name parts are Modified,Typos,1 Typo - first letter,Entity,UID-302 - 6930,26582,PARADISE MEDICAL PIONEERS COMPANY,TARADISE MEDICAL PIONEERS COMPANY
+UID-302,Names where name parts are Modified,Typos,1 Typo - first letter,Entity,UID-302 - 4530,20200,FEDERAL SUE SHIPYARD 'MORYE',GEDERAL SUE SHIPYARD 'MORYE'
+UID-302,Names where name parts are Modified,Typos,1 Typo - first letter,Entity,UID-302 - 1033,8915,MACEDONIA LTDA.,RACEDONIA LTDA.
+UID-302,Names where name parts are Modified,Typos,1 Typo - first letter,Entity,UID-302 - 7399,27989,"ALLYRISE TECHNOLOGY GROUP CO., LIMITED","YLLYRISE TECHNOLOGY GROUP CO., LIMITED"
+UID-303,Names where name parts are Modified,Typos,1 Typo - first letter,Individual,UID-303 - 8381,31144,"GUDINO HARO, Francisco Javier","YUDINO HARO, FRANCISCO JAVIER"
+UID-303,Names where name parts are Modified,Typos,1 Typo - first letter,Individual,UID-303 - 2392,12591,"NOORULLAH, Haji","POORULLAH, HAJI"
+UID-303,Names where name parts are Modified,Typos,1 Typo - first letter,Individual,UID-303 - 5919,24311,"KOSHLAF, Mohamed","UOSHLAF, MOHAMED"
+UID-303,Names where name parts are Modified,Typos,1 Typo - first letter,Individual,UID-303 - 1390,10262,"VARELA SERNA, Carlos Heneris","UARELA SERNA, CARLOS HENERIS"
+UID-303,Names where name parts are Modified,Typos,1 Typo - first letter,Individual,UID-303 - 2092,11895,"NEGRETE LUNA, Jose Maria","LEGRETE LUNA, JOSE MARIA"
+UID-303,Names where name parts are Modified,Typos,1 Typo - first letter,Individual,UID-303 - 8250,30624,"ZABIN, Sultan","PABIN, SULTAN"
+UID-303,Names where name parts are Modified,Typos,1 Typo - first letter,Individual,UID-303 - 6323,25400,"MUZZAMIL, Mohammad Daoud","RUZZAMIL, MOHAMMAD DAOUD"
+UID-303,Names where name parts are Modified,Typos,1 Typo - first letter,Individual,UID-303 - 8404,31252,"KALASHNIKOV, Alexander Petrovich","OALASHNIKOV, ALEXANDER PETROVICH"
+UID-303,Names where name parts are Modified,Typos,1 Typo - first letter,Individual,UID-303 - 5093,22063,"SALIM, Ahmad","CALIM, AHMAD"
+UID-303,Names where name parts are Modified,Typos,1 Typo - first letter,Individual,UID-303 - 4547,20227,"AL-KHALIDI, Faisal Jassim Mohammed al-Amri","ZL-KHALIDI, FAISAL JASSIM MOHAMMED AL-AMRI"
+UID-305,Names where name parts are Modified,Typos,2 typos different name parts,Entity,UID-305 - 7985,29858,EMMA TEL LLC,EMMU JEL LLC
+UID-305,Names where name parts are Modified,Typos,2 typos different name parts,Entity,UID-305 - 1878,11478,HIERROS DE JERUSALEM S.A.,HIERRLS DE JERUSALEM S.O.
+UID-305,Names where name parts are Modified,Typos,2 typos different name parts,Entity,UID-305 - 2243,12194,CLUB DEPORTIVO OJOS NEGROS A.C.,CLNB DEPORTIVO OJOS NEGROS A.N.
+UID-305,Names where name parts are Modified,Typos,2 typos different name parts,Entity,UID-305 - 3782,17223,THE ORGANIZATION OF DEFENSIVE INNOVATION AND RESEARCH,SHE ORGANIZATION OF DEFENSIVE INNOVATION AND RBSEARCH
+UID-305,Names where name parts are Modified,Typos,2 typos different name parts,Entity,UID-305 - 3870,17468,SOUTH-EAST MOVEMENT,SLUTH-EAST MOWEMENT
+UID-305,Names where name parts are Modified,Typos,2 typos different name parts,Entity,UID-305 - 5241,22288,ARDIS-BEARINGS LLC,ARDIS-BEARMNGS TLC
+UID-305,Names where name parts are Modified,Typos,2 typos different name parts,Entity,UID-305 - 2072,11859,INVERSIONES AGROINDUSTRIALES DEL ORIENTE LTDA.,INVERSIONES AGROINDUSTRIARES DEY ORIENTE LTDA.
+UID-305,Names where name parts are Modified,Typos,2 typos different name parts,Entity,UID-305 - 1997,11728,"MOREXPRESS, S.A. DE C.V.","MOREXPRESS, J.A. DW C.V."
+UID-305,Names where name parts are Modified,Typos,2 typos different name parts,Entity,UID-305 - 7926,29794,IRANIAN OIL PIPELINES AND TELECOMMUNICATION CO.,IBANIAN OIL PIPELINES AND TELECOMMUNICATION YO.
+UID-305,Names where name parts are Modified,Typos,2 typos different name parts,Entity,UID-305 - 1620,10742,HARAKAT UL-JIHAD-I-ISLAMI/BANGLADESH,ZARAKAT UL-JIHAD-I-ISLAII/BANGLADESH
+UID-306,Names where name parts are Modified,Typos,2 typos different name parts,Individual,UID-306 - 2872,15204,"MOHAMMAD ZAKARYA, Jassim","MOHAMMZD ZAKARYA, JASSRM"
+UID-306,Names where name parts are Modified,Typos,2 typos different name parts,Individual,UID-306 - 7120,26950,"ZARIF, Mohammad Javad","ZARIF, MOHAMEAD LAVAD"
+UID-306,Names where name parts are Modified,Typos,2 typos different name parts,Individual,UID-306 - 1435,10359,"ZAMBADA NIEBLA, Maria Teresa","ZAGBADA NIEBLI, MARIA TERESA"
+UID-306,Names where name parts are Modified,Typos,2 typos different name parts,Individual,UID-306 - 2895,15238,"BARICH, Mohammad Naim","BRRICH, MOHAMYAD NAIM"
+UID-306,Names where name parts are Modified,Typos,2 typos different name parts,Individual,UID-306 - 2300,12402,"AFRIDI, Amanullah","LFRIDI, JMANULLAH"
+UID-306,Names where name parts are Modified,Typos,2 typos different name parts,Individual,UID-306 - 9506,35482,"SHUBIN, Igor Nikolayevich","SHUBIB, IGCR NIKOLAYEVICH"
+UID-306,Names where name parts are Modified,Typos,2 typos different name parts,Individual,UID-306 - 3481,16534,"MAHMOUDI, Gholamreza","MAHMOUCI, VHOLAMREZA"
+UID-306,Names where name parts are Modified,Typos,2 typos different name parts,Individual,UID-306 - 1695,10993,"FITCH PARENTE, Pablo Antonio","GITCH PARENTE, PABLO ANTQNIO"
+UID-306,Names where name parts are Modified,Typos,2 typos different name parts,Individual,UID-306 - 5930,24325,"KERIMOV, Suleiman Abusaidovich","YERIMOV, SULEIMAN ABRSAIDOVICH"
+UID-306,Names where name parts are Modified,Typos,2 typos different name parts,Individual,UID-306 - 10126,36801,"KARLIN, Alexander Bogdanovich","KARLIN, ALNXANDER BOGDANOVICG"
+UID-308,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Entity,UID-308 - 3255,15966,PETRO GREEN,PETRO GRKRN
+UID-308,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Entity,UID-308 - 5324,22697,AJILY SOFTWARE PROCUREMENT GROUP,AJILY SOFTWARE PROCUREMENT QVOUP
+UID-308,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Entity,UID-308 - 6542,25797,ISLAMIC REPUBLIC OF IRAN - MIDDLE EAST SHIPPING LINES COMPANY,ISLAMIC REPUBLIC OF IRAN - MIDDLE EACS SHIPPING LINES COMPANY
+UID-308,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Entity,UID-308 - 1373,10245,DESARROLLO GEMMA CORPORATION,DESARROLLO GEMRH CORPORATION
+UID-308,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Entity,UID-308 - 7455,28068,LATVIJAS TRANZITA BIZNESA ASOCIACIJA,LATVIJAS TRACHITA BIZNESA ASOCIACIJA
+UID-308,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Entity,UID-308 - 10520,37520,JSC ALL RUSSIAN RESEARCH INSTITUTE OF RADIO ENGINEERING,JSC AOU RUSSIAN RESEARCH INSTITUTE OF RADIO ENGINEERING
+UID-308,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Entity,UID-308 - 5289,22554,'WOLF' HOLDING OF SECURITY STRUCTURES,'WOLF' HOLDING OF SECZIITY STRUCTURES
+UID-308,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Entity,UID-308 - 2271,12294,AL REHMAT TRUST,AL RDLMAT TRUST
+UID-308,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Entity,UID-308 - 10956,39646,SAMANE GOSTAR SAHAB PARDAZ PRIVATE LIMITED COMPANY,SAMANE GOSTAR SAHAB PARDAZ PRIVCLE LIMITED COMPANY
+UID-308,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Entity,UID-308 - 6630,25925,SEPAHAN CEMENT PAKAT-SAZI SHAFAGH,SEPAHAN CEMENT PAKAT-SAZI NJAFAGH
+UID-309,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Individual,UID-309 - 3809,17266,"RIDA, Batoul",RIDTC BATOUL
+UID-309,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Individual,UID-309 - 10013,36407,"MEDVEDEV, Dmitry Anatolievich","MEDVEDEV, VQITRY ANATOLIEVICH"
+UID-309,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Individual,UID-309 - 10955,39645,"OMAR, Ahmed Haji Ali Haji","OMQJ, AHMED HAJI ALI HAJI"
+UID-309,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Individual,UID-309 - 684,7925,"MURAD, Abdul Hakim","MURYR, ABDUL HAKIM"
+UID-309,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Individual,UID-309 - 2354,12529,"AVENDANO OJEDA, Martin Guadencio","AVENDANO OJEDA, MAWNIN GUADENCIO"
+UID-309,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Individual,UID-309 - 10951,39641,"YUSUF, Isse Mohamoud","YUSUF, UOSE MOHAMOUD"
+UID-309,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Individual,UID-309 - 8073,30213,"IMAD AL-DIN AL-MADANI, Kamal","IMAD AL-DIN AL-MYIANI, KAMAL"
+UID-309,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Individual,UID-309 - 1801,11355,"AMEEN AL-PESHAWARI, Fazeel-A-Tul Shaykh Abu Mohammed","AMEEN AL-PESHAWARI, FAZEEL-A-TUL SHAYOR ABU MOHAMMED"
+UID-309,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Individual,UID-309 - 3406,16400,"STEPANOV, Vladlen Yurievich","STEPANOV, VLADLEN YUYDEVICH"
+UID-309,Names where name parts are Modified,Typos,2 Typos same name part - Adjacent,Individual,UID-309 - 1576,10624,"CAZAREZ PEREZ, Irma","CAZAREZ PEREZ, IQVA"
+UID-310,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Entity,UID-310 - 8999,34113,FUTURE GATE FUEL AND PETROCHEMICAL TRADING L.L.C.,LETURE GATE FUEL AND PETROCHEMICAL TRADING L.L.C.
+UID-310,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Entity,UID-310 - 5458,23145,FORENT TECHNIK GMBH,KGRENT TECHNIK GMBH
+UID-310,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Entity,UID-310 - 9416,35355,JOINT STOCK COMPANY SALAVAT CHEMICAL PLANT,IPINT STOCK COMPANY SALAVAT CHEMICAL PLANT
+UID-310,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Entity,UID-310 - 6340,25433,"VALOR Y PRINCIPIO DE DAR, ASOCIACION CIVIL","IDLOR Y PRINCIPIO DE DAR, ASOCIACION CIVIL"
+UID-310,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Entity,UID-310 - 922,8393,ORIENT SHIPPING LIMITED,TSIENT SHIPPING LIMITED
+UID-310,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Entity,UID-310 - 7029,26747,OFFISCOOP NV,WYFISCOOP NV
+UID-310,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Entity,UID-310 - 8752,32897,ORBIT PETROCHEMICALS TRADING LLC,WKBIT PETROCHEMICALS TRADING LLC
+UID-310,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Entity,UID-310 - 7753,29044,MIRZA COMPANY,CDRZA COMPANY
+UID-310,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Entity,UID-310 - 8135,30380,TEHRAN CEMENT COMPANY,UMHRAN CEMENT COMPANY
+UID-310,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Entity,UID-310 - 10733,38162,MITISHINSKIY SCIENTIFIC RESEARCH INSTITUTE OF RADIO MEASURING INSTRUMENTS,EQTISHINSKIY SCIENTIFIC RESEARCH INSTITUTE OF RADIO MEASURING INSTRUMENTS
+UID-311,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Individual,UID-311 - 2895,15238,"BARICH, Mohammad Naim","FBRICH, MOHAMMAD NAIM"
+UID-311,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Individual,UID-311 - 1500,10469,"VANOY MURILLO, Ramiro","FONOY MURILLO, RAMIRO"
+UID-311,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Individual,UID-311 - 9441,35416,"KAMNEV, Georgy Petrovich","EVMNEV, GEORGY PETROVICH"
+UID-311,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Individual,UID-311 - 1826,11400,"ZEVALLOS GONZALES, Sara Marilyn","FRVALLOS GONZALES, SARA MARILYN"
+UID-311,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Individual,UID-311 - 2005,11745,"KHALAF, Fuad Mohamed","ODALAF, FUAD MOHAMED"
+UID-311,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Individual,UID-311 - 2912,15413,"MIR, Sajjid","HXR, SAJJID"
+UID-311,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Individual,UID-311 - 9608,35584,"VORONOVSKIY, Anatoliy","SXRONOVSKIY, ANATOLIY"
+UID-311,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Individual,UID-311 - 3753,17123,"RUDENKO, Miroslav Vladimirovich","NEDENKO, MIROSLAV VLADIMIROVICH"
+UID-311,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Individual,UID-311 - 4459,19849,"ESSA, Agila Saleh","ZPSA, AGILA SALEH"
+UID-311,Names where name parts are Modified,Typos,"2 Typos same name part - Adjacent, at beginning",Individual,UID-311 - 10209,36884,"VARFOLOMEEV, Alexander Georgyevich","QQRFOLOMEEV, ALEXANDER GEORGYEVICH"
+UID-312,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Entity,UID-312 - 10820,38759,ZAO NTTS MODUL,ZAO NTTS MOTUT
+UID-312,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Entity,UID-312 - 4927,21805,TEHRAN PRISONS ORGANIZATION,TEHRAN PRISONS ONGPNIZATION
+UID-312,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Entity,UID-312 - 1381,10253,OVERSEAS TRADING COMPANY,OVTRWEAS TRADING COMPANY
+UID-312,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Entity,UID-312 - 3316,16040,OIL INDUSTRY INVESTMENT COMPANY,OIL INDUSTRY INVESTMENT COMPLNH
+UID-312,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Entity,UID-312 - 7706,28798,DAMASCUS CHAM HOLDING COMPANY,DAMASCUS CHAM POSDING COMPANY
+UID-312,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Entity,UID-312 - 189,6898,LIBYAN ISLAMIC FIGHTING GROUP,EISYAN ISLAMIC FIGHTING GROUP
+UID-312,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Entity,UID-312 - 4094,18539,AL ZAROONI EXCHANGE,AL ZAROONI EOCXANGE
+UID-312,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Entity,UID-312 - 6564,25841,PALM SERVICE LIMITED,PALM SERVICE LIWIGED
+UID-312,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Entity,UID-312 - 1188,9553,BANGKOK ARTI-FLORA DESIGN LIMITED PARTNERSHIP,BANGKOK ARTI-FLORA DESIGN LEMDTED PARTNERSHIP
+UID-312,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Entity,UID-312 - 10498,37485,TREND GYO,TRNNH GYO
+UID-313,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Individual,UID-313 - 1545,10592,"GHANI, Mohammad Nadeem","GHANI, MOHAMMAD NANEMM"
+UID-313,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Individual,UID-313 - 1584,10636,"OLIVAS OJEDA, Jesus Joaquin","OLIVAS OJEDA, JESUS JOBQYIN"
+UID-313,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Individual,UID-313 - 8246,30620,"MARTYNOV, Daniil Vasilievich","MARTYNOV, DANIIL VISLLIEVICH"
+UID-313,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Individual,UID-313 - 4908,21729,"BOURAS, Sami Bashur","BOUIAP, SAMI BASHUR"
+UID-313,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Individual,UID-313 - 5050,22020,"SA'ID, Majd","SA'ID, MBJH"
+UID-313,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Individual,UID-313 - 1500,10469,"VANOY MURILLO, Ramiro","HALOY MURILLO, RAMIRO"
+UID-313,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Individual,UID-313 - 7031,26749,"TABAJA, Hassan","VAIAJA, HASSAN"
+UID-313,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Individual,UID-313 - 8807,33259,"YAN, Su Xuan","YAN, SU XOAD"
+UID-313,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Individual,UID-313 - 5879,24028,"SADEGHI, Mostafa","SADEGHI, MOSNAKA"
+UID-313,Names where name parts are Modified,Typos,2 Typos same name part - Non-adjacent,Individual,UID-313 - 5423,23049,"AL-MARFADI, Khalid","AU-DARFADI, KHALID"
+UID-314,Names where name parts are Modified,Typos,Typo noise name parts,Entity,UID-314 - 847,37721,JOINT STOCK COMPANY RADIOPRIBOR,JOINT STOCQ COMPANY RADIOPRIBOR
+UID-314,Names where name parts are Modified,Typos,Typo noise name parts,Entity,UID-314 - 777,36055,SEVERNOE DESIGN BUREAU JOINT STOCK COMPANY,SEVERNOE DESIGN BUREAU JOINT STOCI COMPANY
+UID-314,Names where name parts are Modified,Typos,Typo noise name parts,Entity,UID-314 - 797,36364,ALL-RUSSIAN PUBLIC ORGANIZATION SOCIETY FOR THE PROMOTION OF RUSSIAN HISTORICAL DEVELOPMENT TSARGRAD,ALL-RUSSIAN PUBDIC ORGANIZATION SOCIETY FOR THE PROMOTION OF RUSSIAN HISTORICAL DEVELOPMENT TSARGRAD
+UID-314,Names where name parts are Modified,Typos,Typo noise name parts,Entity,UID-314 - 129,15148,CENTER FOR INNOVATION AND TECHNOLOGY COOPERATION,CENTER FOR INNOVATION AND TECHNOLORY COOPERATION
+UID-314,Names where name parts are Modified,Typos,Typo noise name parts,Entity,UID-314 - 201,18291,BANK BELVEB OJSC,BPNK BELVEB OJSC
+UID-314,Names where name parts are Modified,Typos,Typo noise name parts,Entity,UID-314 - 679,34656,PROMSVYAZBANK PUBLIC JOINT STOCK COMPANY,PROMSVYAZBANK PUBLIC JOINT STRCK COMPANY
+UID-314,Names where name parts are Modified,Typos,Typo noise name parts,Entity,UID-314 - 778,36056,JOINT STOCK COMPANY PRODUCTION ASSOCIATION NORTHERN MACHINE-BUILDING ENTERPRISE,JOINT STOCB COMPANY PRODUCTION ASSOCIATION NORTHERN MACHINE-BUILDING ENTERPRISE
+UID-314,Names where name parts are Modified,Typos,Typo noise name parts,Entity,UID-314 - 115,15129,HODA SHIPPING COMPANY LIMITED,HODA SHIPPUNG COMPANY LIMITED
+UID-314,Names where name parts are Modified,Typos,Typo noise name parts,Entity,UID-314 - 905,39157,JOINT STOCK COMPANY RESEARCH AND DEVELOPMENT ENTERPRISE RADIOSVYAZ,JOINT STVCK COMPANY RESEARCH AND DEVELOPMENT ENTERPRISE RADIOSVYAZ
+UID-314,Names where name parts are Modified,Typos,Typo noise name parts,Entity,UID-314 - 510,26895,FOZ FOR TRADING,FOZ FOR TRADIZG
